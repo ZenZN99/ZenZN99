@@ -7,8 +7,8 @@
 I'm a Frontend developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
-- 📚 I’m currently learning about Frontend and Backend technologies.
+- 👨‍💻 I’m currently working on web development technologies like TypeScript & React & Next.js.
+- 📚I am currently learning about mobile app development using React Native.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
   
 
