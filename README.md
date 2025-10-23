@@ -36,7 +36,7 @@
 
 #### 🧰 Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,dbeaver" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
