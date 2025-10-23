@@ -14,7 +14,7 @@
 - 💻 Passionate about crafting full-stack web applications using modern technologies.  
 - ⚡ Focused on clean code, performance, and great user experience.  
 - 🎯 Currently improving my backend skills with Node.js and Express.js.  
-- 🌍 Based in Türkiye | Open for remote opportunities.
+- 🌍  Open for remote opportunities.
 
 ---
 
@@ -47,13 +47,6 @@
 
 ---
 
-### 📜 Certificates  
-- 🎓 Full-Stack Web Development — **Academy Hsoub**  
-- 🧩 JavaScript & React — **Academy Hsoub**  
-- ⚙️ Node.js & Express.js — **Academy Hsoub**
-
----
-
 ### 🌟 Why Choose Me  
 ✅ Clean & Maintainable Code  
 ✅ Fast Delivery  
@@ -68,16 +61,16 @@
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
-  <a href="mailto:zen.allaham@example.com" target="_blank">
+  <a href="mailto:hxfhfucicic@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/zen-allaham-789907370/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/905XXXXXXXXX" target="_blank">
+  <a href="https://wa.me/905546726683" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" alt="WhatsApp"/>
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61579430121762" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" alt="Facebook"/>
   </a>
 </p>
