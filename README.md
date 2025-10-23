@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Zen Allaham</h1>
 
 <p align="center">
-  🚀 <strong>Full-Stack Developer</strong> | Building modern, scalable, and high-performance web applications.
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
+  🚀 <strong>Full-Stack Developer</strong> | Building modern, scalable, and high-performance web applications.
 </p>
 
 ---
