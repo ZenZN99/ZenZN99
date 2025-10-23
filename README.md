@@ -4,6 +4,10 @@
   🚀 <strong>Full-Stack Developer</strong> | Building modern, scalable, and high-performance web applications.
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
+</p>
+
 ---
 
 ### 🧠 About Me  
@@ -62,13 +66,19 @@
 ### 📫 Connect With Me  
 <p align="left">
   <a href="https://github.com/ZenZN99" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
   <a href="mailto:zen.allaham@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/905XXXXXXXXX" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" alt="Facebook"/>
   </a>
 </p>
 
