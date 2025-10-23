@@ -31,7 +31,7 @@
 
 #### ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,nest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
 </p>
 
 #### 🧰 Tools & Others
