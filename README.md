@@ -27,7 +27,7 @@
 
 #### 🚀 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue" />
 </p>
 
 #### ⚙️ Back-End
