@@ -4,8 +4,9 @@
   <tr>
     <td align="center" width="50%">
       <h2> 🚀 Full-Stack Developer</h2><br/>
-      Building modern, scalable, and high-performance web applications.
-      🎓 Certified Full-Stack Developer —  Hsoub Academy
+      <h3>Building modern, scalable, and high-performance web applications.</h3>
+      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+     حح
     </td>
     <td align="center" width="50%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
