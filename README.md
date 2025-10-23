@@ -1,63 +1,58 @@
-<h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /></h1>
+<h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> </h1>
 
 <table align="center">
   <tr>
-    <td align="left" width="50%">
-      <h2>🚀 Full-Stack Developer</h2>
-      <p>
-        Building modern, scalable, and high-performance web applications.<br/>
-        🎓 Certified Full-Stack Developer — Academy Hsoub
-      </p>
-      <p>
-        💻 Front-End: React.js, Next.js, TypeScript, TailwindCSS, Material-UI<br/>
-        ⚙️ Back-End: Node.js, Express.js, MongoDB, PostgreSQL, SQLite, Sequelize<br/>
-        🧰 Tools: Git, GitHub, VSCode, Figma, NPM
-      </p>
+    <td align="center" width="50%">
+      <h2> 🚀 Full-Stack Developer</h2><br/>
+      Building modern, scalable, and high-performance web applications.
+      🎓 Certified Full-Stack Developer —  Hsoub Academy
     </td>
     <td align="center" width="50%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
     </td>
   </tr>
 </table>
 
 ---
 
+### 🧠 About Me  
+- 💻 Passionate about crafting full-stack web applications using modern technologies.  
+- ⚡ Focused on clean code, performance, and great user experience.  
+- 🎯 Currently improving my backend skills with Node.js and Express.js.  
+- 🌍 Open for remote opportunities.
+
+---
+
 ### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+
+#### 🚀 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://skillicons.dev/icons?i=sequelize" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+#### ⚙️ Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+### 💼 Featured Projects  
+
 | Project | Description | Live Demo | Repo |
-|---------|-------------|-----------|------|
-| 🛒 **E-Commerce Store** | Front-End: React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
-| ✅ **To-Do List App** | Full-Stack: Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
-| 🎬 **Movie App** | Front-End: React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
+|----------|--------------|-----------|------|
+| 🛒 *E-Commerce Store* | Front-End: React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
+| ✅ *To-Do List App* | Full-Stack: Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
+| 🎬 *Movie App* | Front-End: React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
 
 ---
 
-### 🌟 Why Choose Me
+### 🌟 Why Choose Me  
 ✅ Clean & Maintainable Code  
 ✅ Fast Delivery  
 ✅ Responsive Design  
@@ -66,8 +61,8 @@
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
+### 📫 Connect With Me  
+<p align="left">
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
@@ -84,6 +79,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" alt="Facebook"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   💡 “Code with purpose, build with passion.”  
