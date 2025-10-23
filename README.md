@@ -7,7 +7,7 @@
       Building modern, scalable, and high-performance web applications.
     </td>
     <td align="center" width="50%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
+      <img src="https://cdn.dribbble.com/users/461733/screenshots/3316660/programmer.gif" width="300" alt="Coding illustration" />
     </td>
   </tr>
 </table>
