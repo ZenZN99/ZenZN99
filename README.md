@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      🚀 <h2>Full-Stack Developer</h2><br/>
+      <h2> 🚀 Full-Stack Developer</h2><br/>
       Building modern, scalable, and high-performance web applications.
     </td>
     <td align="center" width="50%">
