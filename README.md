@@ -1,21 +1,79 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
-<h1>
-  Hi There I'm Zen Allaham  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p>
-I'm a Frontend developer with a strong passion for creating visually appealing and user-friendly websites. 
+<h1 align="center">👋 Hi, I'm Zen Allaham</h1>
+
+<p align="center">
+  🚀 <strong>Full-Stack Developer</strong> | Building modern, scalable, and high-performance web applications.
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like TypeScript & React & Next.js.
-- 📚I am currently learning about mobile app development using React Native.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-  
+---
 
+### 🧠 About Me  
+- 💻 Passionate about crafting full-stack web applications using modern technologies.  
+- ⚡ Focused on clean code, performance, and great user experience.  
+- 🎯 Currently improving my backend skills with Node.js and Express.js.  
+- 🌍 Based in Türkiye | Open for remote opportunities.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+### 🛠️ Tech Stack  
 
+#### 🚀 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
+#### ⚙️ Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
 
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+### 💼 Featured Projects  
+
+| Project | Description | Live Demo | Repo |
+|----------|--------------|-----------|------|
+| 🛒 **E-Commerce Store** | Full-stack store with dark/light mode & translation | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
+| ✅ **To-Do List App** | Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
+| 🎬 **Movie App** | React + TypeScript + TMDB API | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
+
+---
+
+### 📜 Certificates  
+- 🎓 Full-Stack Web Development — **Academy Hsoub**  
+- 🧩 JavaScript & React — **Academy Hsoub**  
+- ⚙️ Node.js & Express.js — **Academy Hsoub**
+
+---
+
+### 🌟 Why Choose Me  
+✅ Clean & Maintainable Code  
+✅ Fast Delivery  
+✅ Responsive Design  
+✅ Deep Front-End & Back-End Knowledge  
+✅ Constant Learner & Problem Solver  
+
+---
+
+### 📫 Connect With Me  
+<p align="left">
+  <a href="https://github.com/ZenZN99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="mailto:zen.allaham@example.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 “Code with purpose, build with passion.”  
+</p>
