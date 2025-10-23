@@ -1,16 +1,12 @@
 <h1 align="center">👋 Hi, I'm Zen Allaham</h1>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      🚀 <strong>Full-Stack Developer</strong><br/>
-      Building modern, scalable, and high-performance web applications.
-    </td>
-    <td align="center" width="50%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    🚀 <strong>Full-Stack Developer</strong><br/>
+    Building modern, scalable, and high-performance web applications.
+  </div>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
+</div>
 
 ---
 
