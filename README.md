@@ -1,12 +1,16 @@
 <h1 align="center">👋 Hi, I'm Zen Allaham</h1>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
-</p>
-
-<p align="center">
-  🚀 <strong>Full-Stack Developer</strong> | Building modern, scalable, and high-performance web applications.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      🚀 <strong>Full-Stack Developer</strong><br/>
+      Building modern, scalable, and high-performance web applications.
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,7 +18,7 @@
 - 💻 Passionate about crafting full-stack web applications using modern technologies.  
 - ⚡ Focused on clean code, performance, and great user experience.  
 - 🎯 Currently improving my backend skills with Node.js and Express.js.  
-- 🌍  Open for remote opportunities.
+- 🌍 Open for remote opportunities.
 
 ---
 
@@ -43,7 +47,7 @@
 |----------|--------------|-----------|------|
 | 🛒 **E-Commerce Store** | Front-End React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
 | ✅ **To-Do List App** | Full-Stack Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
-| 🎬 **Movie App** | React + TypeScript  | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
+| 🎬 **Movie App** | React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
 
 ---
 
