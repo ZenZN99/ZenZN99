@@ -1,4 +1,4 @@
-<h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> , I'm Zen Allaham</h1>
+<h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> </h1>
 
 <table align="center">
   <tr>
