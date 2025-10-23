@@ -22,6 +22,32 @@
 
 ---
 
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://skillicons.dev/icons?i=sequelize" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" width="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';"/>
+</p>
+
+---
+
 ### 💼 Featured Projects
 | Project | Description | Live Demo | Repo |
 |---------|-------------|-----------|------|
@@ -41,7 +67,7 @@
 ---
 
 ### 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
@@ -58,8 +84,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" alt="Facebook"/>
   </a>
 </p>
-
----
 
 <p align="center">
   💡 “Code with purpose, build with passion.”  
