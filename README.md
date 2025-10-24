@@ -4,8 +4,15 @@
   <tr>
     <td align="center" width="50%">
       <h2> 🚀 Full-Stack Developer</h2><br/>
-      <h4>Building modern, scalable, and high-performance web applications.</h4>
-      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+    #### 🚀 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
+
+#### ⚙️ Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
+</p>
     </td>
     <td align="center" width="50%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding illustration" />
@@ -25,15 +32,6 @@
 
 ### 🛠️ Tech Stack  
 
-#### 🚀 Front-End
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-</p>
-
-#### ⚙️ Back-End
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
-</p>
 
 #### 🧰 Tools & Others
 <p align="left">
