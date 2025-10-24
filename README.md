@@ -32,7 +32,7 @@
 
 #### ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
 </p>
 
 #### 🧰 Tools & Others
