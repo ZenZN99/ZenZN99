@@ -4,12 +4,12 @@
   <tr>
     <td align="center" width="50%">
       <h2> 🚀 Full-Stack Developer</h2><br/>
-    #### 🚀 Front-End
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 </p>
 
-#### ⚙️ Back-End
+]
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize" />
 </p>
