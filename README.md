@@ -5,7 +5,7 @@
     <td align="" width="50%">
       <h2> 🚀 Full-Stack Developer</h2><br/>
 
-<h4>Building modern, scalable, and high-performance web applications.</h4>
+<h4 width="40">Building modern, scalable, and high-performance web applications.</h4>
       <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="50%">
