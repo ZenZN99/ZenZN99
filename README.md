@@ -2,13 +2,13 @@
 
 <table align="center">
   <tr>
-    <td align="center"  width="40%">
+    <td align="center"  width="60%">
       <h2> 🚀 Full-Stack Developer</h2><br/>
 
 <h4>Building modern, scalable, and high-performance web applications.</h4>
       <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
     </td>
-    <td align="center" width="60%">
+    <td align="center" width="40%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
     </td>
   </tr>
