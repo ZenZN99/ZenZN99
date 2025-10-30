@@ -1,17 +1,30 @@
-<h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /></h1>
+<h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> </h1>
 
-## 🧠 About Me
-I'm a **Full-Stack Developer** passionate about creating **modern, high-performance, and responsive web applications** using the latest technologies.  
-I focus on **clean code, scalability, and seamless user experience**.
+<table align="center">
+  <tr>
+    <td align="center"  width="60%">
+      <h2> 🚀 Full-Stack Developer</h2><br/>
 
-- 💻 **Technologies:** Bun.js, React, TypeScript, Express.js, Node.js  
-- 🎨 **Front-End:** Responsive Design, Tailwind CSS, Material-UI, Figma  
-- ⚡ **Back-End:** REST API, JWT Authentication, CRUD, Database Management  
-- 🌍 **Deployment:** Render, Netlify, Vercel  
+<h4>Building modern, scalable, and high-performance web applications.</h4>
+      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+    </td>
+    <td align="center" width="40%">
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 About Me  
+- 💻 Passionate about crafting full-stack web applications using modern technologies.  
+- ⚡ Focused on clean code, performance, and great user experience.  
+- 🎯 Currently improving my backend skills with Node.js and Express.js.  
+- 🌍 Open for remote opportunities.
+
+---
+
+### 🛠️ Tech Stack  
 
 #### 🚀 Front-End
 <p align="left">
@@ -20,37 +33,28 @@ I focus on **clean code, scalability, and seamless user experience**.
 
 #### ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,bun" />
 </p>
 
 #### 🧰 Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 💼 Featured Projects
 
-| Project | Description | Live Demo | Repo |
-|---------|-------------|-----------|------|
-| 🛒 **E-Commerce Website** | Front-End: React + TypeScript | [Live](https://your-ecommerce-site.com) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
-| 🖼️ **Pinterest Clone** | Full-Stack: Bun.js + Express + MongoDB | [Live](https://your-pinterest-clone.netlify.app) | [GitHub](https://github.com/ZenZN99/Pinterest-clone) |
-| 🎬 **Movie App** | Front-End: React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
-
----
-
-## 🌟 Why Choose Me
-- ✅ Clean & Maintainable Code  
-- ✅ Fast Delivery  
-- ✅ Responsive Design  
-- ✅ Deep Front-End & Back-End Knowledge  
-- ✅ Constant Learner & Problem Solver  
+### 🌟 Why Choose Me  
+✅ Clean & Maintainable Code  
+✅ Fast Delivery  
+✅ Responsive Design  
+✅ Deep Front-End & Back-End Knowledge  
+✅ Constant Learner & Problem Solver  
 
 ---
 
-## 📫 Connect With Me
-<p align="center">
+### 📫 Connect With Me  
+<p align="left">
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
