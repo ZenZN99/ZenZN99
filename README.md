@@ -1,6 +1,4 @@
 <h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /></h1>
-
----
 ## 🧠 About Me
 I'm a **Full-Stack Developer** passionate about creating **modern, high-performance, and responsive web applications** using the latest technologies.  
 I focus on **clean code, scalability, and seamless user experience**.
