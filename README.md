@@ -3,10 +3,11 @@
 <table align="center">
   <tr>
     <td align="center"  width="60%">
-      <h2> 🚀 Full-Stack Developer</h2><br/>
-
-<h4>Building modern, scalable, and high-performance web applications.</h4>
-      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+   ### 🧠 About Me  
+- 💻 Passionate about crafting full-stack web applications using modern technologies.  
+- ⚡ Focused on clean code, performance, and great user experience.  
+- 🎯 Currently improving my backend skills with Node.js and Express.js.  
+- 🌍 Open for remote opportunities.
     </td>
     <td align="center" width="40%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
@@ -16,13 +17,6 @@
 
 ---
 
-### 🧠 About Me  
-- 💻 Passionate about crafting full-stack web applications using modern technologies.  
-- ⚡ Focused on clean code, performance, and great user experience.  
-- 🎯 Currently improving my backend skills with Node.js and Express.js.  
-- 🌍 Open for remote opportunities.
-
----
 
 ### 🛠️ Tech Stack  
 
