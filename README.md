@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/xUPGcoo3H57e4K8A2Y/giphy.gif" width="35" alt="Waving Hand" /></h1>
 
 <p align="center">
-  <img src="https://dribbble.com/shots/3079099-Coding-coding-coding" width="400" alt="Coding Illustration"/>
+  <img src="https://dribbble.com/shots/3079099-Coding-coding-coding.gif" width="400" alt="Coding Illustration"/>
 </p>
 
 ---
