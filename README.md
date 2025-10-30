@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/xUPGcoo3H57e4K8A2Y/giphy.gif" width="35" alt="Waving Hand" /></h1>
+<h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /></h1>
 
 
 ## 🧠 About Me
