@@ -48,8 +48,8 @@
 | Project | Description | Live Demo | Repo |
 |----------|--------------|-----------|------|
 | 🛒 E-Commerce Store | Front-End: React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
-| ✅ To-Do List App | Full-Stack: Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
-| 🎬 Movie App | Front-End: React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
+| 📌 Pinterest Clone | Full-Stack: Bun.js + Express + MongoDB + TypeScript + React | [Live](https://www-pinterest-clone.netlify.app/) | [GitHub](https://github.com/ZenZN99/Pinterest-clone) |
+| 🎬 Movies App | Full-Stack: Bun.js + Express + React + TypeScript + MongoDB | [Live](https://www-movies-app.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movies-App) |
 
 ---
 
