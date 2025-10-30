@@ -43,15 +43,6 @@
 
 ---
 
-### 💼 Featured Projects  
-
-| Project | Description | Live Demo | Repo |
-|----------|--------------|-----------|------|
-| 🛒 E-Commerce Store | Front-End: React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
-| 📌 Pinterest Clone | Full-Stack: Bun.js + Express + MongoDB + TypeScript + React | [Live](https://www-pinterest-clone.netlify.app/) | [GitHub](https://github.com/ZenZN99/Pinterest-clone) |
-| 🎬 Movies App | Full-Stack: Bun.js + Express + React + TypeScript + MongoDB | [Live](https://www-movies-app.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movies-App) |
-
----
 
 ### 🌟 Why Choose Me  
 ✅ Clean & Maintainable Code  
