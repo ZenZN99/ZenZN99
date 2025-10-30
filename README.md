@@ -1,78 +1,88 @@
-# 👋 Hi, I'm Zen — Full-Stack Developer
+<h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> </h1>
 
-![Profile Banner](https://images.unsplash.com/photo-1531497865145-142e5dc72f90?auto=format&fit=crop&w=1500&q=80)
+<table align="center">
+  <tr>
+    <td align="center"  width="60%">
+      <h2> 🚀 Full-Stack Developer</h2><br/>
 
-## 🔥 About Me
-I am a passionate **Full-Stack Developer** building modern web applications with **Bun.js, React, Express, and TypeScript**.  
-I love turning ideas into functional, responsive, and high-performance apps.
-
-- 💻 **Technologies:** Bun.js | Node.js | Express | React | TypeScript | MongoDB | PostgreSQL  
-- 🎨 **Front-End:** Responsive Design | Tailwind CSS | Material-UI | Figma  
-- ⚡ **Back-End:** REST API | Authentication | JWT | CRUD | Database Management  
-- 🌐 **Deployment:** Render | Vercel | Netlify
-
----
-
-## 🚀 My Projects
-
-### 1. E-Commerce Website 🛒
-![E-Commerce Screenshot](https://images.unsplash.com/photo-1612831455541-dbaad5935a72?auto=format&fit=crop&w=800&q=80)
-- Built with **React + TypeScript + Bun.js + Express**  
-- Features: Product Search, Cart, User Authentication, Dark/Light Mode  
-- [Live Demo](https://your-ecommerce-site.com) | [GitHub Repo](https://github.com/yourusername/ecommerce)
-
-### 2. Real Estate Platform 🏡
-![Real Estate Screenshot](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80)
-- Modern responsive platform with **React + Express + PostgreSQL**  
-- Features: Property Listings, Filters, User Profiles  
-- [Live Demo](https://your-realestate-site.com) | [GitHub Repo](https://github.com/yourusername/realestate)
-
-### 3. To-Do List App ✅
-![To-Do List Screenshot](https://images.unsplash.com/photo-1581091870621-6ba0c5f1c5f2?auto=format&fit=crop&w=800&q=80)
-- Full-Stack with **Bun.js + Express + MongoDB**  
-- Features: CRUD operations, User Authentication, Responsive Design  
-- [Live Demo](https://your-todolist-app.com) | [GitHub Repo](https://github.com/yourusername/todolist)
-
-### 4. Movie App 🎬
-![Movie App Screenshot](https://images.unsplash.com/photo-1581905764498-64eeb1856e9e?auto=format&fit=crop&w=800&q=80)
-- **React + TypeScript + Express**  
-- Features: Fetch movies from API, Search, Favorites, Modal previews  
-- [Live Demo](https://your-movie-app.com) | [GitHub Repo](https://github.com/yourusername/movieapp)
-
-### 5. Pinterest Clone 📌
-![Pinterest Clone Screenshot](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=800&q=80)
-- Full-Stack with **Bun.js + Express + MongoDB**  
-- Features: Upload Images, Like System, User Authentication, Modal Preview  
-- [Live Demo](https://your-pinterest-clone.com) | [GitHub Repo](https://github.com/yourusername/pinterest-clone)
+<h4>Building modern, scalable, and high-performance web applications.</h4>
+      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+    </td>
+    <td align="center" width="40%">
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💡 Skills & Tools
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Front-End:** React, Tailwind CSS, Material-UI, Responsive Design  
-- **Back-End:** Bun.js, Node.js, Express, REST API, JWT Authentication  
-- **Databases:** MongoDB, PostgreSQL, SQLite  
-- **Version Control:** Git, GitHub  
-- **Design:** Figma, UI/UX principles  
+### 🧠 About Me  
+- 💻 Passionate about crafting full-stack web applications using modern technologies.  
+- ⚡ Focused on clean code, performance, and great user experience.  
+- 🎯 Currently improving my backend skills with Node.js and Express.js.  
+- 🌍 Open for remote opportunities.
 
 ---
 
-## 🏆 Certifications
-- **Full-Stack Development** – Hsoub Academy  
-- **JavaScript & React** – Hsoub Academy  
+### 🛠️ Tech Stack  
+
+#### 🚀 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
+
+#### ⚙️ Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,bun" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+### 💼 Featured Projects  
+
+| Project | Description | Live Demo | Repo |
+|----------|--------------|-----------|------|
+| 🛒 E-Commerce Store | Front-End: React + TypeScript | [Live](https://amazon-store-sigma.vercel.app/) | [GitHub](https://github.com/ZenZN99/Amazon-store) |
+| ✅ To-Do List App | Full-Stack: Next.js + TypeScript + MongoDB REST API | [Live](https://to-do-list-app-sigma-teal.vercel.app/login) | [GitHub](https://github.com/ZenZN99/ToDo-List-app) |
+| 🎬 Movie App | Front-End: React + TypeScript | [Live](https://movies-app-1o.netlify.app/) | [GitHub](https://github.com/ZenZN99/Movie-App) |
 
 ---
 
-## 🌟 Fun Fact
-I love integrating **AI tools** to enhance UI/UX design and optimize code productivity.
+### 🌟 Why Choose Me  
+✅ Clean & Maintainable Code  
+✅ Fast Delivery  
+✅ Responsive Design  
+✅ Deep Front-End & Back-End Knowledge  
+✅ Constant Learner & Problem Solver  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### 📫 Connect With Me  
+<p align="left">
+  <a href="https://github.com/ZenZN99" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  <a href="mailto:hxfhfucicic@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zen-allaham-789907370/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/905546726683" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61579430121762" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 “Code with purpose, build with passion.”  
+</p>
