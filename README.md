@@ -33,7 +33,7 @@
 
 #### ⚙️ Back-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,bun,php,laravel" />
 </p>
 
 #### 🧰 Tools & Others
