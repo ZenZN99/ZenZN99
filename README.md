@@ -6,7 +6,7 @@
       <h2> ⚙️ Back-End Developer</h2><br/>
 
 <h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
-      <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
+      <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
