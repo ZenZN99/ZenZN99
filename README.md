@@ -39,7 +39,7 @@
 
 #### 🔐 Security & Authentication
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt,nginx" />
+  <img src="https://skillicons.dev/icons?i=jsonwebtoken" />
 </p>
 
 #### 🧰 Tools & Utilities
