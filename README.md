@@ -29,17 +29,7 @@
 
 #### ⚙️ Back-End Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,postgres,sqlite" />
-</p>
-
-#### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=railway,render,vercel,cloudflare,docker" />
-</p>
-
-#### 🔐 Security & Authentication
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jsonwebtoken" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,mongodb,postgres,sqlite" />
 </p>
 
 #### 🧰 Tools & Utilities
