@@ -3,9 +3,9 @@
 <table align="center">
   <tr>
     <td align="center"  width="60%">
-      <h2> 🚀 Full-Stack Developer</h2><br/>
+      <h2> ⚙️ Back-End Developer</h2><br/>
 
-<h4>Building modern, scalable, and high-performance web applications.</h4>
+<h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
       <p> 🎓 Certified Full-Stack Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
@@ -17,39 +17,60 @@
 ---
 
 ### 🧠 About Me  
-- 💻 Passionate about crafting full-stack web applications using modern technologies.  
-- ⚡ Focused on clean code, performance, and great user experience.  
-- 🎯 Currently improving my backend skills with Node.js and Express.js.  
-- 🌍 Open for remote opportunities.
+- 💻 Passionate about building powerful backend systems using Node.js & Express.js.  
+- ⚡ Skilled in RESTful API design, authentication, and database management.  
+- 🗄️ Experienced with MongoDB, PostgreSQL, and cloud integration (Cloudinary, JWT, bcrypt).  
+- 🎯 Currently focused on scaling server performance and API security.  
+- 🌍 Open for backend and full-stack freelance projects.
 
 ---
 
 ### 🛠️ Tech Stack  
 
-#### 🚀 Front-End
+#### ⚙️ Back-End Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,postgres,sqlite" />
 </p>
 
-#### ⚙️ Back-End
+#### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,bun" />
+  <img src="https://skillicons.dev/icons?i=railway,render,vercel,cloudflare,docker" />
 </p>
 
-#### 🧰 Tools & Others
+#### 🔐 Security & Authentication
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=jwt,nginx" />
+</p>
+
+#### 🧰 Tools & Utilities
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
 
 ---
 
+### 📂 Featured Backend Projects  
 
-### 🌟 Why Choose Me  
-✅ Clean & Maintainable Code  
-✅ Fast Delivery  
-✅ Responsive Design  
-✅ Deep Front-End & Back-End Knowledge  
-✅ Constant Learner & Problem Solver  
+#### 🎬 Movie API  
+> RESTful API for movie management — CRUD operations, JWT Auth, Cloudinary image upload.  
+**Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT, Multer
+
+#### ✅ To-Do List API  
+> Task manager API supporting user authentication and data persistence.  
+**Stack:** Node.js, Express, SQLite, JWT, bcrypt  
+
+#### 💬 Chat App API  
+> Real-time chat backend with WebSocket and token-based authentication.  
+**Stack:** Node.js, Express, MongoDB, Socket.io  
+
+---
+
+### 🌟 Backend Principles I Follow  
+✅ Clean Architecture  
+✅ Error Handling & Validation  
+✅ Scalable Folder Structure  
+✅ Secure APIs (JWT, bcrypt, Helmet)  
+✅ Cloud-first Deployment  
 
 ---
 
@@ -75,5 +96,5 @@
 ---
 
 <p align="center">
-  💡 “Code with purpose, build with passion.”  
+  ⚡ “APIs are the bridge between logic and experience — I build that bridge.”  
 </p>
