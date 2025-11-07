@@ -39,22 +39,6 @@
 
 ---
 
-### 📂 Featured Backend Projects  
-
-#### 🎬 Movie API  
-> RESTful API for movie management — CRUD operations, JWT Auth, Cloudinary image upload.  
-**Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT, Multer
-
-#### ✅ To-Do List API  
-> Task manager API supporting user authentication and data persistence.  
-**Stack:** Node.js, Express, SQLite, JWT, bcrypt  
-
-#### 💬 Chat App API  
-> Real-time chat backend with WebSocket and token-based authentication.  
-**Stack:** Node.js, Express, MongoDB, Socket.io  
-
----
-
 ### 🌟 Backend Principles I Follow  
 ✅ Clean Architecture  
 ✅ Error Handling & Validation  
