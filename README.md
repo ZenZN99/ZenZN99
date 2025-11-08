@@ -6,7 +6,6 @@
       <h2> ⚙️ Back-End Developer</h2><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
-      <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
