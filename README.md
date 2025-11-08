@@ -3,7 +3,7 @@
 <p align="center">
   <b>⚙️ Back-End Developer | Node.js • Express • TypeScript • MongoDB</b><br/>
   <i>Designing and building secure, scalable, and high-performance server-side systems.</i><br/><br/>
-  🎓 Certified Back-End Developer — <a href="https://academy.hsoub.com" target="_blank">Hsoub Academy</a>
+  🎓 Certified Back-End Developer From Hsoub Academy
 </p>
 
 <p align="center">
@@ -71,5 +71,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" height="150" />
 </p>
