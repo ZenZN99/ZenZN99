@@ -5,7 +5,7 @@
     <td align="center"  width="60%">
       <h2> ⚙️ Back-End Developer</h2><br/>
 
-<h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
       <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
