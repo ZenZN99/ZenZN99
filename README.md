@@ -1,38 +1,34 @@
-<h1>Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /> </h1>
+<h1 align="center">Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand" /></h1>
 
-<table align="center">
-  <tr>
-    <td align="center"  width="60%">
-      <h2> ⚙️ Back-End Developer</h2><br/>
+<p align="center">
+  <b>⚙️ Back-End Developer | Node.js • Express • TypeScript • MongoDB</b><br/>
+  <i>Designing and building secure, scalable, and high-performance server-side systems.</i><br/><br/>
+  🎓 Certified Back-End Developer — <a href="https://academy.hsoub.com" target="_blank">Hsoub Academy</a>
+</p>
 
-<h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
-      <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
-    </td>
-    <td align="center" width="40%">
-     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration"/>
+</p>
 
 ---
 
 ### 🧠 About Me  
-- 💻 Passionate about building powerful backend systems using Node.js & Express.js.  
-- ⚡ Skilled in RESTful API design, authentication, and database management.  
-- 🗄️ Experienced with MongoDB, PostgreSQL, and cloud integration (Cloudinary, JWT, bcrypt).  
-- 🎯 Currently focused on scaling server performance and API security.  
-- 🌍 Open for backend and full-stack freelance projects.
+- 💻 Passionate about developing **robust backend systems** using Node.js & Express.js.  
+- ⚡ Skilled in **RESTful API design**, authentication, and database management.  
+- 🗄️ Experienced with **MongoDB**, **PostgreSQL**, and **Cloud Integration** (Cloudinary, JWT, bcrypt).  
+- 🔒 Focused on **security, scalability, and performance optimization**.  
+- 🌍 Open for **backend** and **full-stack freelance** opportunities.
 
 ---
 
 ### 🛠️ Tech Stack  
 
-#### ⚙️ Back-End Core
+#### ⚙️ Back-End Core  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,javascript,typescript,mongodb,postgres,sqlite" />
 </p>
 
-#### 🧰 Tools & Utilities
+#### 🧰 Tools & Utilities  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
@@ -40,11 +36,11 @@
 ---
 
 ### 🌟 Backend Principles I Follow  
-✅ Clean Architecture  
-✅ Error Handling & Validation  
-✅ Scalable Folder Structure  
+✅ Clean Architecture & Folder Structure  
+✅ Proper Error Handling & Validation  
 ✅ Secure APIs (JWT, bcrypt, Helmet)  
-✅ Cloud-first Deployment  
+✅ Scalable and Modular Code  
+✅ Cloud-first Deployment & CI/CD Ready  
 
 ---
 
@@ -70,5 +66,10 @@
 ---
 
 <p align="center">
-  ⚡ “APIs are the bridge between logic and experience — I build that bridge.”  
+  ⚡ <i>“APIs are the bridge between logic and experience — I build that bridge.”</i>  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" height="150" />
 </p>
