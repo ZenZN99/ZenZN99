@@ -71,5 +71,4 @@
 
 <p align="center">
   ⚡ “APIs are the bridge between logic and experience — I build that bridge.”
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
 </p>
