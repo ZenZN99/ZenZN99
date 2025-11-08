@@ -5,7 +5,8 @@
     <td align="center"  width="60%">
       <h2> ⚙️ Back-End Developer</h2><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
+  <h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
+      <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
@@ -69,5 +70,6 @@
 ---
 
 <p align="center">
-  ⚡ “APIs are the bridge between logic and experience — I build that bridge.”  
+  ⚡ “APIs are the bridge between logic and experience — I build that bridge.”
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" height="150" />
 </p>
