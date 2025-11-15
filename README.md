@@ -29,7 +29,7 @@
 
 #### ⚙️ Back-End Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,javascript,typescript,mongodb,mysql,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,javascript,typescript,mongodb,postgres,mysql,php,laravel" />
 </p>
 
 #### 🧰 Tools & Utilities
