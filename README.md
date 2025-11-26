@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="60%">
-      <h2> ⚙️ Full-Stack Developer (Front-End & Back-End)</h2><br/>
+      <h2>🚀 Full-Stack Developer</h2><br/>
       <h4>Building modern, scalable, and production-ready web applications from UI to database.</h4>
       <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
