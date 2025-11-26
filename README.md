@@ -27,14 +27,14 @@
 
 ## 🛠️ Tech Stack  
 
-### ⚙️ Back-End Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,typescript,javascript,mongodb,postgres,mysql" />
-</p>
-
 ### 🎨 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,angular,redux,materialui" />
+</p>
+
+### ⚙️ Back-End 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,typescript,javascript,mongodb,postgres,mysql" />
 </p>
 
 ### 🔗 Full-Stack & Dev Tools
