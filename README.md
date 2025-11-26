@@ -2,14 +2,13 @@
 
 <table align="center">
   <tr>
-    <td align="center"  width="60%">
-      <h2> ⚙️ Back-End Developer</h2><br/>
-
-  <h4>Designing and building secure, scalable, and high-performance server-side systems.</h4>
+    <td align="center" width="60%">
+      <h2> ⚙️ Full-Stack Developer (Front-End & Back-End)</h2><br/>
+      <h4>Building modern, scalable, and production-ready web applications from UI to database.</h4>
       <p> 🎓 Certified Back-End Developer —  Hsoub Academy</p>
     </td>
     <td align="center" width="40%">
-     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding illustration" />
     </td>
   </tr>
 </table>
@@ -17,38 +16,64 @@
 ---
 
 ### 🧠 About Me  
-- 💻 Passionate about building powerful backend systems using Node.js & Express.js.  
-- ⚡ Skilled in RESTful API design, authentication, and database management.  
-- 🗄️ Experienced with MongoDB, PostgreSQL, and cloud integration (Cloudinary, JWT, bcrypt).  
-- 🎯 Currently focused on scaling server performance and API security.  
-- 🌍 Open for backend and full-stack freelance projects.
+- 💻 Full-Stack Developer specializing in **TypeScript, Node.js, React, Next.js, and databases**.  
+- ⚡ Expert in building high-performance backend systems (REST APIs, Auth, Cloud).  
+- 🎨 Strong front-end skills with modern UI frameworks and responsive design.  
+- 🔒 Focused on security, scalability, and clean architecture.  
+- 🚀 Passionate about shipping real-world, production-grade projects.  
+- 🌍 Open for remote work, freelancing, and full-stack collaborations.
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-#### ⚙️ Back-End Core
+### ⚙️ Back-End Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,javascript,typescript,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,typescript,javascript,mongodb,postgres,mysql" />
 </p>
 
-#### 🧰 Tools & Utilities
+### 🎨 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,materialui,figma" />
+</p>
+
+### 🔗 Full-Stack & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,vercel,cloudflare" />
 </p>
 
 ---
 
-### 🌟 Backend Principles I Follow  
-✅ Clean Architecture  
-✅ Error Handling & Validation  
-✅ Scalable Folder Structure  
-✅ Secure APIs (JWT, bcrypt, Helmet)  
-✅ Cloud-first Deployment  
+## 🌟 What I Build  
+✔ Full-Stack Web Apps (Next.js + Node.js + Databases)  
+✔ Authentication Systems (JWT, Sessions, bcrypt)  
+✔ Scalable REST APIs & Backend Architectures  
+✔ Responsive UI/UX for real business needs  
+✔ Payment integrations (Stripe)  
+✔ Admin Dashboards & SaaS applications  
+✔ Cloud integrations (Cloudinary, Prisma, Docker)
 
 ---
 
-### 📫 Connect With Me  
+## 🧱 Development Principles I Follow  
+- Clean Architecture  
+- Modular & Maintainable Code  
+- Secure APIs (JWT, bcrypt, Helmet, Rate-Limiting)  
+- Performance & Scalability  
+- Strong Git Workflow  
+- Reusable UI Components  
+
+---
+
+## 📌 Featured Skills  
+- **Front-End:** React, Next.js, TailwindCSS, Redux, Material UI  
+- **Back-End:** Node.js, Express.js, Nest.js, PostgreSQL, MongoDB  
+- **Cloud & Tools:** Docker, Prisma, Cloudinary, Vercel  
+- **Languages:** JavaScript, TypeScript  
+
+---
+
+## 📫 Connect With Me  
 <p align="left">
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
@@ -70,5 +95,5 @@
 ---
 
 <p align="center">
-  ⚡ “APIs are the bridge between logic and experience — I build that bridge.”
+  ⚡ “APIs build the logic. Front-End brings it to life. Full-Stack connects both worlds.”  
 </p>
