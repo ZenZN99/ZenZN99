@@ -39,7 +39,7 @@
 
 ### 🔗 Full-Stack & Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare,jsonwebtoken,jwt,clerk" />
 </p>
 
 ---
