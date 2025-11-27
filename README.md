@@ -34,7 +34,7 @@
 
 ### ⚙️ Back-End 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,typescript,javascript,mongodb,postgres,mysql,c#,net" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,typescript,javascript,mongodb,postgres,mysql" />
 </p>
 
 ### 🔗 Full-Stack & Dev Tools
