@@ -34,9 +34,13 @@
 
 ### ⚙️ Back-End 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,typescript,javascript,python,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,postgres,mysql" />
 </p>
 
+### programing Language
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+</p>
 ### 🔗 Full-Stack & Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" />
