@@ -29,17 +29,12 @@
 
 ### 🎨 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs,redux,materialui" />
 </p>
 
 ### ⚙️ Back-End 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,postgres,mysql" />
-</p>
-
-### programing Language
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,postgres,mysql,python" />
 </p>
 
 ### 🔗 Full-Stack & Dev Tools
