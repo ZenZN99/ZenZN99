@@ -1,10 +1,9 @@
 <div align="center">
 
-# Hi, I'm **Zen Allaham** 👋
+# Hi, I'm **Zen Allaham**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
 
 **Full-Stack Developer | Building production-ready web applications**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack-Developer-0f172a?style=for-the-badge" />
