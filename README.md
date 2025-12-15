@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack-Developer-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-Production-000000?style=for-the-badge&logo=nextdotjs" />
 </p>
 
