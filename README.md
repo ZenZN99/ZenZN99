@@ -2,7 +2,7 @@
 
 # Hi, I'm **Zen Allaham**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
 
-**Full-Stack Developer | Building production-ready web applications**
+**Software Engineer | Building production-ready web applications**
 
 
 <p>
