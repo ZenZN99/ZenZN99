@@ -53,7 +53,7 @@ I’m a **Full-Stack Developer** focused on building **modern, scalable, and sec
 ### 🎨 Front‑End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs,redux,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs,redux,materialui,zustand" />
 </p>
 
 ### ⚙️ Back‑End
