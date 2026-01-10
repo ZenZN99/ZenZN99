@@ -8,8 +8,9 @@
 <p>
   <img src="https://img.shields.io/badge/Full--Stack-Developer-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Next.js-Production-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
 
 </div>
 
