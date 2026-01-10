@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm **Zen Allaham**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
+# Hi, I'm **Zen Allaham** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
 
-**Full Stack | Building production-ready web applications**
-
+**Full-Stack | Node.js | Laravel | React**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -14,102 +13,66 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" />
 
 </div>
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-
-### 🚀 Who I Am
-
-I’m a **Full-Stack Developer** focused on building **modern, scalable, and secure web applications** — from clean UI to robust backend systems.
-
-* 🎓 **Certified Back-End Developer — Hsoub Academy**
-* 💡 Strong in **system design, APIs, and clean architecture**
-* ⚡ Performance‑driven mindset with production standards
-* 🌍 Open to **remote work, freelancing, and collaborations**
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
-    </td>
-  </tr>
-
-</table>
-
----
-
 ## 🧠 About Me
 
-* 💻 Specialized in **TypeScript, Node.js, React, Next.js, and Databases**
-* 🔒 Build secure backends (Auth, JWT, hashing, rate‑limiting)
-* 🎨 Strong UI/UX sense with responsive, real‑world designs
-* 🧱 Architecture‑first mindset (scalability & maintainability)
-* 🚀 I ship **real products**, not demo apps
+I'm a **Full-Stack Developer** focused on building **production-ready web applications** with clean architecture and scalable backend systems.  
+
+- 🎓 **Certified Back-End Developer — Hsoub Academy**  
+- 💡 Strong in **system design, APIs, and clean architecture**  
+- ⚡ Performance-driven mindset, production standards  
+- 🌍 Open to **remote work, freelancing, and collaborations**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Front‑End
-
+### 🎨 Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs,redux,materialui" />
 </p>
 
-### ⚙️ Back‑End
-
+### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,mongodb,postgres,mysql,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,mongodb,postgres,mysql,php,laravel" />
 </p>
 
 ### 🔗 Dev Tools & Cloud
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,prisma,sequelize,vercel,cloudflare" />
 </p>
 
 ---
 
 ## 🌟 What I Build
 
-* ✔ **Full‑Stack Web Apps** (Next.js + Node.js + Databases)
-* ✔ **Authentication Systems** (JWT, Sessions, bcrypt)
-* ✔ **Scalable REST APIs** & backend architectures
-* ✔ **Responsive UI/UX** for real business needs
-* ✔ **Payment Integrations** (Stripe)
-* ✔ **Admin Dashboards & SaaS Platforms**
-* ✔ **Cloud Integrations** (Cloudinary, Docker, Prisma)
+- ⚡ **Scalable REST APIs & backend architectures**  
+- 💳 **Payment Integrations** (Stripe)  
+- 🖥️ **Responsive UI/UX** for real business needs  
+- 🔒 **Authentication Systems** (JWT, bcrypt, sessions)  
+- 🗂️ **Admin Dashboards & SaaS Platforms**  
+- ☁️ **Cloud Integrations** (Docker, Vercel, Cloudinary)  
 
 ---
 
-## 🧱 Development Principles
+## 📌 Core Principles
 
-* Clean Architecture & separation of concerns
-* Modular, readable, and maintainable code
-* Security‑first APIs (JWT, bcrypt, Helmet, Rate‑Limit)
-* Performance & scalability awareness
-* Strong Git workflow & version control
-* Reusable and consistent UI components
-
----
-
-## 📌 Core Skills Snapshot
-
-* **Front‑End:** React, Next.js, TailwindCSS, Redux, Material UI
-* **Back‑End:** Node.js, Express.js, Nest.js, PostgreSQL, MongoDB
-* **Cloud & Tools:** Docker, Prisma, Cloudinary, Vercel
-* **Languages:** JavaScript, TypeScript, Python
+- 🧱 Clean Architecture & separation of concerns  
+- 🔄 Modular, readable, maintainable code  
+- 🛡️ Security-first APIs (JWT, bcrypt, Helmet, Rate-Limit)  
+- ⚡ Performance & scalability awareness  
+- 📂 Reusable and consistent UI components  
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ZenZN99" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
@@ -130,5 +93,5 @@ I’m a **Full-Stack Developer** focused on building **modern, scalable, and sec
 ---
 
 <p align="center">
-  ⚡ <b>“APIs build the logic. Front‑End brings it to life. Full‑Stack connects both worlds.”</b>
+  ⚡ <b>“APIs build the logic. Front-End brings it to life. Full-Stack connects both worlds.”</b>
 </p>
