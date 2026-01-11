@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white" />
 
 </p>
@@ -67,7 +65,7 @@ I’m a **Full-Stack Developer** focused on building **modern, scalable, and sec
 ### ⚙️ Back‑End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,mongodb,postgres,mysql,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,mongodb,postgres,mysql,python" />
 </p>
 
 ### 🔗 Dev Tools & Cloud
