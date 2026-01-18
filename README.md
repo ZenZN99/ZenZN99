@@ -106,7 +106,7 @@ I’m a *Full-Stack Developer* focused on building *modern, scalable, and secure
 * *Front‑End:* React, Next.js, TailwindCSS, Redux, Material UI
 * *Back‑End:* Node.js, Express.js, Nest.js, PostgreSQL, MongoDB
 * *Cloud & Tools:* Docker, Prisma, Cloudinary, Vercel
-* *Languages:* JavaScript, TypeScript, Python
+* *Languages:* JavaScript, TypeScript, Python, PHP
 
 ---
 
