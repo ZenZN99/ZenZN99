@@ -67,7 +67,7 @@ I’m a *Full-Stack Developer* focused on building *modern, scalable, and secure
 ### ⚙️ Back‑End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,php,laravel,mongodb,postgres,mysql,python,net" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,php,laravel,mongodb,postgres,mysql,python" />
 </p>
 
 ### 🔗 Dev Tools & Cloud
