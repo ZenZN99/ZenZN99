@@ -33,7 +33,7 @@ I’m a *Back-End Developer* focused on building *secure, scalable, and producti
 
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Old coding gif" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
     </td>
   </tr>
 </table>
