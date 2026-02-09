@@ -43,7 +43,7 @@ I’m a *Back-End Developer* focused on building *secure, scalable, and producti
 ### ⚙️ Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,php,laravel,mongodb,postgres,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,php,laravel,mongodb,postgres,mysql,python,go" />
 </p>
 
 ### 🔗 Dev Tools & Cloud
