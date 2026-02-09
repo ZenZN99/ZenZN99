@@ -18,6 +18,10 @@
 
 ---
 
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+
 ### 🚀 Who I Am
 
 I’m a *Back-End Developer* focused on building *secure, scalable, and production-ready server-side applications*.
@@ -26,6 +30,13 @@ I’m a *Back-End Developer* focused on building *secure, scalable, and producti
 * 💡 Strong in *system design, APIs, authentication, and database management*
 * ⚡ Performance-oriented and security-first mindset
 * 🌍 Open to *remote work, freelancing, and collaborations*
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Old coding gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
