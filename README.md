@@ -56,7 +56,7 @@ I’m a *Full-Stack Developer* focused on building *secure, scalable, and produc
 ### 💻 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux" />
 </p>
 
 ### Back-End
