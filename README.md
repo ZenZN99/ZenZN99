@@ -68,7 +68,7 @@ I’m a *Full-Stack Developer* focused on building *secure, scalable, and produc
 ### 🔗 Dev Tools & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,chatgpt,docker,prisma,sequelize,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,gpt,docker,prisma,sequelize,vercel,cloudflare" />
 </p>
 
 ---
