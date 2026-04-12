@@ -1,17 +1,17 @@
 <div align="center">
 
-# Hi, I'm *Zen Allaham*  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving" />
+# Hi, I'm *Zen Allaham* 👋
 
-*Full-Stack Developer | Building scalable, production-ready web applications*
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+
+### 💻 Software Engineer | Back-End Specialist | Building Scalable Systems
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Databases-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -19,99 +19,95 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
+## 🚀 About Me
 
-### 🚀 Who I Am
+I’m a **Software Engineer specialized in Back-End Development**, focused on building **scalable, secure, and production-ready systems** using modern technologies like Node.js and NestJS.
 
-I’m a *Full-Stack Developer* focused on building *secure, scalable, and production-ready web applications*, covering both frontend and backend.
-
-* 🎓 Certified Full-Stack Developer — Hsoub Academy
-* 💡 Strong in *system design, APIs, authentication, frontend & backend development, and database management*
-* ⚡ Performance-oriented and security-first mindset
-* 🌍 Open to *remote work, freelancing, and collaborations*
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
-    </td>
-  </tr>
-</table>
+- 🎓 Certified Full-Stack Developer — Hsoub Academy  
+- ⚙️ Specialized in **Back-End Architecture, APIs, and System Design**  
+- 🔐 Strong focus on **security, authentication, and performance optimization**  
+- 🧱 Experienced in building **real-world, production-level applications**  
+- 🌍 Open to **remote work, freelancing, and collaborations**  
 
 ---
 
-## 🧠 About Me
+## 🧠 What I Do
 
-* 💻 Specialized in *TypeScript, Node.js, Nest.js, Next.js, React, PHP, Laravel, and Databases*
-* 🔒 Build secure backends (Auth, JWT, hashing, rate-limiting)
-* 🎨 Develop responsive frontends with modern frameworks and best UX/UI practices
-* 🧱 Focused on clean architecture, scalability, and maintainable code
-* 🚀 I ship *real-world full-stack systems*, not just demo apps
+- 🔹 Design & build scalable REST APIs
+- 🔹 Develop secure authentication systems (JWT, OAuth, sessions)
+- 🔹 Architect database systems (SQL & NoSQL)
+- 🔹 Build real-time applications using WebSockets
+- 🔹 Optimize backend performance & scalability
+- 🔹 Develop modern frontends when needed (React / Next.js)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Front-End
-
+### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" />
 </p>
 
-### ⚙️ Back-End
-
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,php,laravel,mongodb,redis,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,php,laravel" />
 </p>
 
-### 🔗 Dev Tools & Cloud
-
+### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,docker,postman" />
 </p>
 
 ---
 
 ## 🌟 What I Build
 
-* ✔ *Full-Stack Web Applications* (Frontend + Backend)
-* ✔ *REST & GraphQL APIs* with role-based access control
-* ✔ *Authentication & Authorization* systems (JWT, Sessions, bcrypt)
-* ✔ *Scalable backend architectures* & clean API design
-* ✔ *Database-driven applications* (SQL & NoSQL)
-* ✔ *Real-time features* (WebSockets, Notifications)
-* ✔ *Responsive & interactive frontends* (React, Next.js, Tailwind, MUI)
-* ✔ *Production-ready full-stack solutions*
+✔ Scalable Backend Systems  
+✔ REST & Secure APIs  
+✔ Authentication & Authorization Systems  
+✔ Database-driven Applications  
+✔ Real-Time Applications (WebSockets)  
+✔ Production-ready Full-Stack Projects  
 
 ---
 
-## 🧱 Development Principles
+## 🧱 Engineering Principles
 
-* Clean architecture & separation of concerns
-* Modular, maintainable, and readable code
-* Security-first APIs & frontend practices
-* Performance & scalability awareness
-* Strong Git workflow & version control
+- Clean Architecture & Modular Design  
+- Security-first Development Approach  
+- High Performance & Scalability Focus  
+- Maintainable & Readable Codebase  
+- Real-world Production Standards  
+
+---
+
+## 📊 Developer Mindset
+
+> I don’t just build applications — I design systems that scale, perform, and survive real-world load.
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/ZenZN99" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+<p>
+  <a href="mailto:zenallaham09@gmail.com">
+    📧 Email
   </a>
-  <a href="mailto:zenallaham09@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
+    💼 LinkedIn
   </a>
-  <a href="https://www.linkedin.com/in/zen-allaham-789907370/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  &nbsp;|&nbsp;
+  <a href="https://github.com/ZenZN99">
+    🧑‍💻 GitHub
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <b>“Full-Stack development connects logic, interfaces, and users. Real-world, production-ready systems matter.”</b>
+
+⚡ *"Great software is not written — it is engineered with structure, security, and scalability."*
+
 </p>
