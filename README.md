@@ -64,7 +64,7 @@ I’m a *Software Engineer specialized in Back-End Development*, focused on buil
 ### ⚙️ Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,gin,php,laravel,mongodb,redis,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" />
 </p>
 
 ### 🔗 Dev Tools & Cloud
