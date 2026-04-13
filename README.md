@@ -1,6 +1,11 @@
-<!-- Modern Professional Banner -->
 
+<!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+
+<!-- <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=My%20Name%20is%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</div> -->
 
 <div align="center">
 
@@ -13,9 +18,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420"/>
 
 </div>
-
----
-
 <div align="center">
 
 # ⚡ Core Strengths
@@ -30,38 +32,48 @@
 
 </div>
 
----
+
+<br/>
 
 ### ⚡ Other Core Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
 
----
+<br/>
 
 <div align="center">
+
 
 ### 🧠 Backend & Architecture
 
 Node.js • NestJS • Microservices • System Design • Scalable Architecture
 
-</div>
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Go-100%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-80%25-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Databases-85%25-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-70%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Databases-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
 <table>
 <tr>
 <td width="60%">
+  
+<div align="center">
 
 ### 🚀 Who I Am
+
+</div>
 
 I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
@@ -74,15 +86,18 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 </td>
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
 
 </td>
 </tr>
 </table>
 
 ---
+<div align="center">
 
-## 💡 What I Build
+# 💡 What I Build
+
+</div>
 
 - Scalable Backend Systems (Node.js / NestJS)  
 - RESTful APIs with clean architecture  
@@ -90,10 +105,15 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - Database-driven applications (SQL & NoSQL)  
 - Real-time systems (WebSockets, notifications)  
 - Performance-optimized backend services  
+- Modern full-stack applications when needed  
 
 ---
 
-## 🧱 Engineering Principles
+<div align="center">
+
+# 🧱 Engineering Principles
+
+</div>
 
 - Clean Architecture & modular design  
 - Security-first backend development  
@@ -103,33 +123,54 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-- 💻 Node.js • NestJS • TypeScript • Go • PHP • Laravel  
-- 🔒 JWT • Authentication • Authorization • Security  
-- ⚡ REST APIs & scalable backend systems  
-- 🗄️ SQL & NoSQL database design  
-- 🚀 Production-ready systems mindset  
+# 🧠 About Me
+
+</div>
+
+- 💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
+- 🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
+- ⚡ Design and develop scalable REST APIs  
+- 🗄️ Strong experience in relational and NoSQL database design  
+- 🚀 Focused on backend performance, scalability, and clean architecture  
+- 🧱 I build real production-ready systems, not just simple demo apps  
 
 ---
+<div align="center">
+  
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+</div>
 
-### ⚙️ Backend
+## ⚙️ Backend
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
+</div>
 
-### 🗄️ Database
+## 🗄️ Database
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
+</div>
 
-### ☁️ DevOps & Cloud
+## ☁️ DevOps & Cloud
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
+</div>
 
-### 🧰 Tools
+## 🧰 Tools
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
@@ -138,7 +179,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=react-dark" />
@@ -146,7 +187,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -154,9 +195,10 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="center">
+<div align="center">
+
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
 <img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -166,7 +208,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
