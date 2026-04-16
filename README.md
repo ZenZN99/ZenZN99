@@ -15,9 +15,23 @@
 
 ---
 
-### ⚡ Other Core Technologies
+## ⚡ Other Core Technologies
+
+<table>
+<tr>
+<td width="60%">
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,go,graphql" height="65"/>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,6 +65,7 @@ Node.js • NestJS • Modular Monolith • System Design • Scalable Architect
 ### 🚀 Who I Am
 
 </div>
+
 
 I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
