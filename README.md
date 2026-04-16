@@ -149,7 +149,7 @@ Handles orders lifecycle, delivery tracking, and transaction management.
 ## 🗄️ Database
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sequelize" height="50"/>
 </div>
 
 ## ☁️ DevOps & Cloud
