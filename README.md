@@ -5,7 +5,9 @@
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=false&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=false&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+</div>
 
 <br/>
 
