@@ -94,7 +94,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 # 💡 What I Build
 
-</div>
+
 
 - Scalable Backend Systems (Node.js / NestJS)  
 - RESTful APIs with clean architecture  
@@ -103,28 +103,27 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - Real-time systems (WebSockets, notifications)  
 - Performance-optimized backend services  
 - Modern full-stack applications when needed  
-
+</div>
 ---
 
-<div align="center">
+<div align="left">
 
 # 🧱 Engineering Principles
 
-</div>
 
 - Clean Architecture & modular design  
 - Security-first backend development  
 - Scalability & performance optimization  
 - Maintainable and readable code structure  
 - Production-level engineering mindset  
+</div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 # 🧠 About Me
 
-</div>
 
 - 💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
 - 🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
@@ -132,6 +131,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - 🗄️ Strong experience in relational and NoSQL database design  
 - 🚀 Focused on backend performance, scalability, and clean architecture  
 - 🧱 I build real production-ready systems, not just simple demo apps  
+</div>
 
 ---
 
@@ -156,11 +156,10 @@ Full food ordering system with wallet, orders, and multi-restaurant architecture
 **Stack:** Laravel • PostgreSQL • Sanctum
 
 ---
-<div align="center">
+<div align="left">
   
 # 🛠️ Tech Stack
 
-</div>
 
 ## ⚙️ Backend
 
@@ -185,13 +184,14 @@ Full food ordering system with wallet, orders, and multi-restaurant architecture
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
 </div>
+</div>
 
 ---
 
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
 </p>
