@@ -1,15 +1,15 @@
 <!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-<div align="cneter">
+<div align="center">
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=false&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420"/>
+<img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420" style="display:block; margin:auto;" />
 
 </div>
 
@@ -203,7 +203,7 @@ Handles orders lifecycle, delivery tracking, and transaction management.
 
 # 📫 Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
 <img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
