@@ -1,3 +1,4 @@
+<!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
 <div align="left">
@@ -57,9 +58,15 @@ Node.js • NestJS • Microservices • System Design • Scalable Architecture
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 <div align="left">
 
-# 🚀 Who I Am
+### 🚀 Who I Am
+
+</div>
 
 I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
@@ -69,7 +76,15 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - 🧠 Passionate about designing **clean and scalable backend systems**  
 - 🌍 Open to **remote work, freelancing, and collaborations**
 
-</div>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -133,6 +148,38 @@ Food ordering backend system
 
 ---
 
+<div align="left">
+
+# 🛠️ Tech Stack
+
+## ⚙️ Backend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
+</div>
+
+## 🗄️ Database
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
+</div>
+
+## ☁️ DevOps & Cloud
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
+</div>
+
+## 🧰 Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
+</div>
+
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="left">
@@ -150,22 +197,26 @@ Food ordering backend system
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-<p align="left">
-
-<a href="mailto:zenallaham09@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<div align="left">
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
 <img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+<a href="mailto:zenallaham09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
+<div align="left">
+
 ⚡ **"I build backend systems that scale, perform, and survive real-world production load."**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer"/>
