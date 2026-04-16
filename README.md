@@ -17,7 +17,7 @@
 
 ### ⚡ Other Core Technologies
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,go,graphql" height="65"/>
 
 ---
 
