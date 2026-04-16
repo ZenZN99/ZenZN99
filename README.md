@@ -1,27 +1,26 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
- <div align="center">
-
-
-<div align="center">
+<div align="left">
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=false&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420"/>
 
 </div>
-<div align="center">
+
+---
+
+<div align="left">
 
 # ⚡ Core Strengths
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ADD8,100:007D9C&height=130&section=header&text=GO&fontSize=60&fontColor=ffffff"/>
 
@@ -29,25 +28,23 @@
 
 </div>
 
-
-<br/>
+---
 
 ### ⚡ Other Core Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
 
-<br/>
+---
 
-<div align="center">
-
+<div align="left">
 
 ### 🧠 Backend & Architecture
 
 Node.js • NestJS • Microservices • System Design • Scalable Architecture
 
-<br/>
+</div>
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -58,19 +55,11 @@ Node.js • NestJS • Microservices • System Design • Scalable Architecture
 <img src="https://img.shields.io/badge/Databases-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-</div>
-
 ---
 
-<table>
-<tr>
-<td width="60%">
-  
-<div align="center">
+<div align="left">
 
-### 🚀 Who I Am
-
-</div>
+# 🚀 Who I Am
 
 I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
@@ -80,21 +69,13 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - 🧠 Passionate about designing **clean and scalable backend systems**  
 - 🌍 Open to **remote work, freelancing, and collaborations**
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
 <div align="left">
 
 # 💡 What I Build
-
-
 
 - Scalable Backend Systems (Node.js / NestJS)  
 - RESTful APIs with clean architecture  
@@ -103,19 +84,21 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - Real-time systems (WebSockets, notifications)  
 - Performance-optimized backend services  
 - Modern full-stack applications when needed  
+
 </div>
+
 ---
 
 <div align="left">
 
 # 🧱 Engineering Principles
 
-
 - Clean Architecture & modular design  
 - Security-first backend development  
 - Scalability & performance optimization  
 - Maintainable and readable code structure  
 - Production-level engineering mindset  
+
 </div>
 
 ---
@@ -124,70 +107,31 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 # 🧠 About Me
 
-
 - 💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
-- 🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
-- ⚡ Design and develop scalable REST APIs  
-- 🗄️ Strong experience in relational and NoSQL database design  
-- 🚀 Focused on backend performance, scalability, and clean architecture  
-- 🧱 I build real production-ready systems, not just simple demo apps  
-</div>
+- 🔒 Build secure backend systems  
+- ⚡ Design scalable REST APIs  
+- 🗄️ Strong database design experience  
+- 🚀 Focused on production-level systems  
 
----
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🟣 CodeHive – Social Developer Platform
-Real-time social platform for developers with chat, posts, and projects  
-**Stack:** NestJS • MongoDB • Redis • Socket.io
+## 🟣 CodeHive – Social Developer Platform  
+Real-time social platform for developers
 
-## 🟢 HireHub – Freelance Marketplace API
-Upwork-like backend system with contracts, proposals, and real-time communication  
-**Stack:** NestJS • Redis • MongoDB • WebSockets
+## 🟢 HireHub – Freelance Marketplace API  
+Upwork-like backend system
 
-## 🟡 Pinterest Clone – Social Media Platform
-Scalable media-sharing platform with real-time interactions  
-**Stack:** NestJS • MongoDB • Socket.io
+## 🟡 Pinterest Clone – Social Platform  
+Real-time social media system
 
-## 🔵 FoodStrong – Ecommerce API
-Full food ordering system with wallet, orders, and multi-restaurant architecture  
-**Stack:** Laravel • PostgreSQL • Sanctum
+## 🔵 FoodStrong – Ecommerce API  
+Food ordering backend system
 
 ---
-<div align="left">
-  
-# 🛠️ Tech Stack
-
-
-## ⚙️ Backend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
-</div>
-
-## 🗄️ Database
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
-</div>
-
-## ☁️ DevOps & Cloud
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
-</div>
-
-## 🧰 Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
-</div>
-</div>
-
----
-
 
 # 📊 GitHub Stats
 
@@ -200,43 +144,28 @@ Full food ordering system with wallet, orders, and multi-restaurant architecture
 
 # 📈 Activity Graph
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=react-dark" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📫 Contact
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-
-<a href="https://www.linkedin.com/in/zen-allaham-789907370/">
-<img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="left">
 
 <a href="mailto:zenallaham09@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/zen-allaham-789907370/">
+<img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
-
 ⚡ **"I build backend systems that scale, perform, and survive real-world production load."**
 
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer"/>
-
-
