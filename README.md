@@ -1,7 +1,7 @@
 <!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-<div align="left">
+<div align="cneter">
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
