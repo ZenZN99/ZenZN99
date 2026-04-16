@@ -90,7 +90,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 </table>
 
 ---
-<div>
+<div align="left">
 
 # 💡 What I Build
 
