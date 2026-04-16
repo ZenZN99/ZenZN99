@@ -57,21 +57,15 @@ Node.js • NestJS • Modular Monolith • System Design • Scalable Architect
 ---
 
 
-<div align="left">
+## 🚀 Who I Am
 
-### 🚀 Who I Am
-
-</div>
-
-
-I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
+I’m a **Back-End Software Engineer** focused on building **secure, scalable, and high-performance systems** using modern technologies like **Node.js and NestJS**.
 
 - 🎓 Certified Full-Stack Developer — Hsoub Academy  
-- ⚙️ Specialized in **Back-End Architecture, API Development, and System Design**  
+- ⚙️ Specialized in **Backend Architecture, API Development, and System Design**  
 - 🔐 Strong focus on **security, authentication, and performance optimization**  
-- 🧠 Passionate about designing **clean and scalable backend systems**  
+- 🧠 Passionate about **clean, maintainable, and scalable system design**  
 - 🌍 Open to **remote work, freelancing, and collaborations**
-
 
 ---
 
