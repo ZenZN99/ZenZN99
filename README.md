@@ -15,22 +15,6 @@
 
 ---
 
-<div align="cneter">
-
-# ⚡ Core Strengths
-
-</div>
-
-<div align="cneter">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ADD8,100:007D9C&height=130&section=header&text=GO&fontSize=60&fontColor=ffffff"/>
-
-### 🚀 High-Performance Backend with Go
-
-</div>
-
----
-
 ### ⚡ Other Core Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
