@@ -1,11 +1,9 @@
 
-<!-- Main Banner -->
+<!-- Main Banner 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=My%20Name%20is%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-</div> 
 
 <div align="center">
 
@@ -219,3 +217,142 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer"/>
+-->
+<!-- HERO HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Zen%20Allaham&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+
+<div align="center">
+
+### 🚀 Backend Software Engineer | Scalable Systems | Real-Time Architectures
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;System+Design+%26+Scalability;NestJS+%7C+Go+%7C+Node.js;Real-Time+Distributed+Systems;Production-Grade+APIs" />
+
+</div>
+
+---
+
+# 🧠 About Me
+
+I am a **Backend Software Engineer** focused on designing and building **scalable, secure, and high-performance distributed systems**.
+
+I specialize in **system architecture, real-time applications, and API-driven platforms** built for production environments.
+
+- ⚙️ Backend Engineering (Node.js / NestJS / Go)
+- 🔐 Authentication & Security Systems (JWT, RBAC, Guards)
+- 🧩 System Design & Scalable Architecture
+- ⚡ Real-Time Systems (WebSockets, Messaging, Notifications)
+- 🗄️ Database Design (SQL / NoSQL / Redis)
+- 🚀 Production-Ready API Development
+
+---
+
+# 💡 Engineering Focus
+
+- Clean Architecture & Modular Design  
+- High Scalability & Performance Optimization  
+- Event-Driven Systems (Pub/Sub, WebSockets, Redis)  
+- Secure Authentication & Authorization Systems  
+- Microservices-ready Architecture Thinking  
+
+---
+
+# 🚀 Featured Projects
+
+## 🟣 CodeHive – Social Developer Platform
+Real-time social platform for developers with chat, posts, and projects  
+**Stack:** NestJS • MongoDB • Redis • Socket.io
+
+## 🟢 HireHub – Freelance Marketplace API
+Upwork-like backend system with contracts, proposals, and real-time communication  
+**Stack:** NestJS • Redis • MongoDB • WebSockets
+
+## 🟡 Pinterest Clone – Social Media Platform
+Scalable media-sharing platform with real-time interactions  
+**Stack:** NestJS • MongoDB • Socket.io
+
+## 🔵 FoodStrong – Ecommerce API
+Full food ordering system with wallet, orders, and multi-restaurant architecture  
+**Stack:** Laravel • PostgreSQL • Sanctum
+
+---
+
+# ⚙️ Tech Stack
+
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,express,php,laravel" />
+</p>
+
+## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+</p>
+
+## DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
+
+---
+
+# 🧱 System Design Skills
+
+- RESTful API Design at Scale  
+- Real-Time Architecture (WebSockets / Event-driven systems)  
+- Caching Strategies (Redis)  
+- Database Modeling & Optimization  
+- Role-Based Access Control (RBAC)  
+- Multi-service Backend Architecture  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=react-dark" />
+</p>
+
+---
+
+# 🔥 What I Build
+
+- Scalable backend platforms  
+- Real-time communication systems  
+- API-first SaaS applications  
+- High-performance distributed systems  
+- Production-ready backend architectures  
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="mailto:zenallaham09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zen-allaham-789907370/">
+<img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “I build backend systems that scale beyond expectations.”
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer"/>
