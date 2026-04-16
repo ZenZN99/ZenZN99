@@ -15,13 +15,13 @@
 
 ---
 
-<div align="left">
+<div align="cneter">
 
 # ⚡ Core Strengths
 
 </div>
 
-<div align="left">
+<div align="cneter">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ADD8,100:007D9C&height=130&section=header&text=GO&fontSize=60&fontColor=ffffff"/>
 
