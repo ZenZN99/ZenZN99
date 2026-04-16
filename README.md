@@ -139,10 +139,16 @@ Handles orders lifecycle, delivery tracking, and transaction management.
 
 # 🛠️ Tech Stack
 
+## 🔥 Language
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,python" height="50"/>
+</div>
+
 ## ⚙️ Backend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,laravel,express,graphql" height="50"/>
 </div>
 
 ## 🗄️ Database
