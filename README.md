@@ -14,9 +14,9 @@
 </div>
 
 ---
-
+ ## ⚡ Other Core Technologies
 <table>
-  ## ⚡ Other Core Technologies
+ 
 <tr>
 <td width="60%">
 
