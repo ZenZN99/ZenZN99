@@ -56,9 +56,6 @@ Node.js • NestJS • Modular Monolith • System Design • Scalable Architect
 
 ---
 
-<table>
-<tr>
-<td width="60%">
 
 <div align="left">
 
@@ -75,15 +72,6 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 - 🧠 Passionate about designing **clean and scalable backend systems**  
 - 🌍 Open to **remote work, freelancing, and collaborations**
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
-
-</td>
-</tr>
-</table>
 
 ---
 
