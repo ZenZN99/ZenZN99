@@ -5,7 +5,7 @@
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Modular Monolith+Architecture;High+Performance+Systems;Production+Ready+Backend" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ### 🧠 Backend & Architecture
 
-Node.js • NestJS • Microservices • System Design • Scalable Architecture
+Node.js • NestJS • Modular Monolith • System Design • Scalable Architecture
 
 </div>
 
