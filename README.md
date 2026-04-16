@@ -203,7 +203,7 @@ Handles orders lifecycle, delivery tracking, and transaction management.
 
 # 📫 Connect With Me
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
 <img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -217,7 +217,7 @@ Handles orders lifecycle, delivery tracking, and transaction management.
 
 ---
 
-<div align="left">
+<div align="center">
 
 ⚡ **"I build backend systems that scale, perform, and survive real-world production load."**
 
