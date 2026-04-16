@@ -5,9 +5,7 @@
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=false&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
-</div>
 
 <br/>
 
@@ -137,16 +135,20 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 # 🚀 Featured Projects
 
 ## 🟣 CodeHive – Social Developer Platform  
-Real-time social platform for developers
+Real-time social platform for developers with posts, projects, and collaboration features.  
+Built with real-time chat, notifications, and scalable backend architecture.
 
 ## 🟢 HireHub – Freelance Marketplace API  
-Upwork-like backend system
+Upwork-like backend system for managing contracts, proposals, and freelancers.  
+Includes real-time communication, payments flow, and role-based access control.
 
 ## 🟡 Pinterest Clone – Social Platform  
-Real-time social media system
+Scalable social media system for sharing visual content with real-time interactions.  
+Supports likes, comments, follows, notifications, and live chat.
 
 ## 🔵 FoodStrong – Ecommerce API  
-Food ordering backend system
+Multi-restaurant food ordering backend with full cart, wallet, and payment flow.  
+Handles orders lifecycle, delivery tracking, and transaction management.
 
 ---
 
@@ -156,25 +158,25 @@ Food ordering backend system
 
 ## ⚙️ Backend
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
 </div>
 
 ## 🗄️ Database
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
 </div>
 
 ## ☁️ DevOps & Cloud
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
 </div>
 
 ## 🧰 Tools
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
 </div>
 
