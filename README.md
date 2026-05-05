@@ -20,7 +20,7 @@
 <tr>
 <td width="60%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,mongodb,redis,docker,go,graphql" height="65"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,mongodb,redis" height="65"/>
 
 </td>
 
