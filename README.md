@@ -15,16 +15,16 @@
 
 ---
  ## ⚡ Other Core Technologies
-<table>
+<table align="center">
  
 <tr>
-<td width="40%">
+<td width="50%">
 
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,mongodb,redis" height="65"/>
 
 </td>
 
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding" />
 
