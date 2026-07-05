@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ZEN%20ALLAHAM&fontSize=42&fontColor=00ffcc&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%94%20I%20build%20systems%2C%20not%20just%20APIs&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ZEN%20ALLAHAM&fontSize=46&fontColor=00ffcc&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%94%20I%20build%20systems%2C%20not%20just%20APIs&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=00FFCC&center=true&vCenter=true&width=560&lines=status%3A+online+%E2%9C%93;architecture+%3E+shortcuts;node.js+%2B+nestjs+%2B+typescript;building+things+that+survive+production" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=00FFCC&center=true&vCenter=true&width=600&lines=status%3A+online+%E2%9C%93;architecture+%3E+shortcuts;node.js+%2B+nestjs+%2B+typescript;building+things+that+survive+production" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZenZN99&color=00ffcc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ZenZN99?color=00ffcc&style=flat-square&label=Followers)
 
 </div>
 
@@ -23,36 +28,45 @@ $ whoami
 
 <br/>
 
+<div align="center">
+
 ## 🧬 System Design Philosophy
 
-| Principle | In Practice |
-|---|---|
-| **Security-first** | Auth, JWT, RBAC — never an afterthought |
-| **Built to scale** | Modular architecture, not spaghetti |
-| **Clean & maintainable** | Code someone else can read at 3AM |
-| **Production mindset** | It's not done until it survives real traffic |
+</div>
+
+<table align="center">
+<tr><th>Principle</th><th>In Practice</th></tr>
+<tr><td><b>🔐 Security-first</b></td><td>Auth, JWT, RBAC — never an afterthought</td></tr>
+<tr><td><b>📈 Built to scale</b></td><td>Modular architecture, not spaghetti</td></tr>
+<tr><td><b>🧹 Clean & maintainable</b></td><td>Code someone else can read at 3AM</td></tr>
+<tr><td><b>🚀 Production mindset</b></td><td>It's not done until it survives real traffic</td></tr>
+</table>
 
 <br/>
 
+<div align="center">
+
 ## ⚙️ Selected Builds
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🟣 CodeHive**
+### 🟣 CodeHive
 Real-time social platform for devs — live chat, notifications, scalable backend core.
 
-**🟢 HireHub**
+### 🟢 HireHub
 Freelance marketplace engine — contracts, proposals, RBAC, real-time comms.
 
 </td>
 <td width="50%" valign="top">
 
-**🟡 Pinterest Clone**
+### 🟡 Pinterest Clone
 Social media backend at scale — likes, follows, live interactions.
 
-**🔵 FoodStrong**
+### 🔵 FoodStrong
 Multi-vendor commerce API — cart, wallet, orders, delivery tracking.
 
 </td>
@@ -61,14 +75,18 @@ Multi-vendor commerce API — cart, wallet, orders, delivery tracking.
 
 <br/>
 
-## 📡 Live Metrics
-
 <div align="center">
+
+## 📡 Live Metrics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=synthwave&hide_border=true&background=00000000" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=synthwave&hide_border=true&bg_color=00000000" width="95%"/>
+
+<br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=ZenZN99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -76,10 +94,11 @@ Multi-vendor commerce API — cart, wallet, orders, delivery tracking.
 
 <div align="center">
 
-### 📡 Reach me
+## 📡 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zen-allaham-789907370/)
 [![Gmail](https://img.shields.io/badge/-zenallaham09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenallaham09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zenallaham.com)
 
 <sub>⚡ "I build backend systems that scale, perform, and survive real-world production load."</sub>
 
