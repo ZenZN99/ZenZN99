@@ -1,214 +1,88 @@
-<!-- Main Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
-
 <div align="center">
 
-### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ZEN%20ALLAHAM&fontSize=42&fontColor=00ffcc&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%94%20I%20build%20systems%2C%20not%20just%20APIs&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend%20Engineer;Node.js%20%7C%20NestJS%20Specialist;Modular%20Monolith%20Architecture;High%20Performance%20Systems;Production-Grade%20Systems" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420" style="display:block; margin:auto;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=00FFCC&center=true&vCenter=true&width=560&lines=status%3A+online+%E2%9C%93;architecture+%3E+shortcuts;node.js+%2B+nestjs+%2B+typescript;building+things+that+survive+production" />
 
 </div>
 
----
- ## ⚡ Other Core Technologies
-<table align="center">
- 
-<tr>
-<td width="50%">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,mongodb,redis" height="65"/>
+```bash
+$ whoami
+> Backend Engineer specialized in Node.js / NestJS
+> Obsessed with clean architecture, security & scale
+> Currently shipping: modular monoliths that don't fall apart
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,express,go,graphql,postgres,mongodb,redis,docker,aws,git" height="55"/>
+
+</div>
+
+<br/>
+
+## 🧬 System Design Philosophy
+
+| Principle | In Practice |
+|---|---|
+| **Security-first** | Auth, JWT, RBAC — never an afterthought |
+| **Built to scale** | Modular architecture, not spaghetti |
+| **Clean & maintainable** | Code someone else can read at 3AM |
+| **Production mindset** | It's not done until it survives real traffic |
+
+<br/>
+
+## ⚙️ Selected Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟣 CodeHive**
+Real-time social platform for devs — live chat, notifications, scalable backend core.
+
+**🟢 HireHub**
+Freelance marketplace engine — contracts, proposals, RBAC, real-time comms.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" align="center">
+**🟡 Pinterest Clone**
+Social media backend at scale — likes, follows, live interactions.
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding" />
+**🔵 FoodStrong**
+Multi-vendor commerce API — cart, wallet, orders, delivery tracking.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="left">
-
-### 🧠 Backend & Architecture
-
-Node.js • NestJS • Modular Monolith • System Design • Scalable Architecture
-
-</div>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Databases-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-
-## 🚀 Who I Am
-
-I’m a **Back-End Software Engineer** focused on building  
-**secure, scalable, and high-performance systems**  
-using modern technologies like **Node.js and NestJS**.
-
-- 🎓 Certified Full-Stack Developer — Hsoub Academy  
-- ⚙️ Specialized in **Backend Architecture, API Development, and System Design**  
-- 🔐 Strong focus on **security, authentication, and performance optimization**  
-- 🧠 Passionate about **clean, maintainable, and scalable system design**  
-- 🌍 Open to **remote work, freelancing, and collaborations**
-
----
-
-<div align="left">
-
-# 💡 What I Build
-
-- Scalable Backend Systems (Node.js / NestJS)  
-- RESTful APIs with clean architecture  
-- Authentication & Authorization systems (JWT, sessions, OAuth basics)  
-- Database-driven applications (SQL & NoSQL)  
-- Real-time systems (WebSockets, notifications)  
-- Performance-optimized backend services  
-- Modern full-stack applications when needed  
-
-</div>
-
----
-
-<div align="left">
-
-# 🧱 Engineering Principles
-
-- Clean Architecture & modular design  
-- Security-first backend development  
-- Scalability & performance optimization  
-- Maintainable and readable code structure  
-- Production-level engineering mindset  
-
-</div>
-
----
-
-<div align="left">
-
-# 🧠 About Me
-
-- 💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
-- 🔒 Build secure backend systems  
-- ⚡ Design scalable REST APIs  
-- 🗄️ Strong database design experience  
-- 🚀 Focused on production-level systems  
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🟣 CodeHive – Social Developer Platform  
-Real-time social platform for developers with posts, projects, and collaboration features.  
-Built with real-time chat, notifications, and scalable backend architecture.
-
-## 🟢 HireHub – Freelance Marketplace API  
-Upwork-like backend system for managing contracts, proposals, and freelancers.  
-Includes real-time communication, payments flow, and role-based access control.
-
-## 🟡 Pinterest Clone – Social Platform  
-Scalable social media system for sharing visual content with real-time interactions.  
-Supports likes, comments, follows, notifications, and live chat.
-
-## 🔵 FoodStrong – Ecommerce API  
-Multi-restaurant food ordering backend with full cart, wallet, and payment flow.  
-Handles orders lifecycle, delivery tracking, and transaction management.
-
----
-
-<div align="left">
-
-# 🛠️ Tech Stack
-
-## 🔥 Language
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,python" height="50"/>
-</div>
-
-## ⚙️ Backend
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,laravel,express,graphql" height="50"/>
-</div>
-
-## 🗄️ Database
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sequelize" height="50"/>
-</div>
-
-## ☁️ DevOps & Cloud
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
-</div>
-
-## 🧰 Tools
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
-</div>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<p align="left">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=react-dark" />
-</p>
-
----
-
-# 📫 Connect With Me
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/zen-allaham-789907370/">
-<img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:zenallaham09@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
+## 📡 Live Metrics
 
 <div align="center">
 
-⚡ **"I build backend systems that scale, perform, and survive real-world production load."**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=synthwave&hide_border=true&background=00000000" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&theme=synthwave&hide_border=true&bg_color=00000000" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer"/>
+<br/>
+
+<div align="center">
+
+### 📡 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zen-allaham-789907370/)
+[![Gmail](https://img.shields.io/badge/-zenallaham09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenallaham09@gmail.com)
+
+<sub>⚡ "I build backend systems that scale, perform, and survive real-world production load."</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
