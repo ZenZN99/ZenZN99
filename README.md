@@ -143,21 +143,6 @@
 
 <div align="center">
 
-## 📡 Live Metrics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&hide_border=true&bg_color=0D0000&title_color=FF0000&icon_color=FF0000&text_color=E0E0E0&border_color=FF0000" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&hide_border=true&background=0D0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=888888" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenZN99&bg_color=0D0000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&hide_border=true" width="95%"/>
-
-<img src="https://github-readme-trophies.vercel.app/?username=ZenZN99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&title_color=FF0000&icon_color=FF0000&text_color=E0E0E0&background=0D0000" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 📟 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-zen--allaham-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/zen-allaham-789907370/)
