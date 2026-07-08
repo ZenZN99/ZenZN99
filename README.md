@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/MongoDB?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000"/>
 </div>
 
