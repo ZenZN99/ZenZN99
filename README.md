@@ -23,7 +23,7 @@
 ```javascript
 const engineer = {
   role: "Early Senior Backend Engineer",
-  stack: ["Node.js", "NestJS", "TypeScript", "PostgreSQL", "Redis"],
+  stack: ["Node.js", "NestJS", "TypeScript", "MongoDB", "Redis"],
   focus: "Scalable APIs, Clean Architecture, Performance",
   mindset: "Code that survives production."
 };
