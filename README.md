@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000"/>
- <img src="https://img.shields.io/badge/PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000"/>
 </div>
 
@@ -23,7 +24,7 @@
 ```javascript
 const engineer = {
   role: "Early Senior Backend Engineer",
-  stack: ["Node.js", "NestJS", "TypeScript", "MongoDB", "Redis"],
+  stack: ["Node.js", "NestJS", "TypeScript", "PostgreSQL", "Redis"],
   focus: "Scalable APIs, Clean Architecture, Performance",
   mindset: "Code that survives production."
 };
