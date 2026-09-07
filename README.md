@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Early%20Software%20Engineer&fontSize=45&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Early%20Senior%20Software%20Engineer&fontSize=45&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Early+Senior+Software+Engineer;NestJS+%7C+Angular+Specialist;Scalable+%7C+Secure+%7C+Clean+Architecture" alt="Typing SVG" />
 
