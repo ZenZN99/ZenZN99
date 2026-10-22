@@ -1,110 +1,103 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Zen%20Allaham&fontSize=45&fontColor=FF1E1E&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792601028/riserbob/covers/keps4sy2lumzdx0ho23i.png" alt="RiserBob Mascot" width="180" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+System+Design;NestJS+%7C+Angular+%7C+TypeScript" alt="Typing SVG" />
+  <h1>Zen Allaham</h1>
 
-</div>
+  **Backend Engineer · Framework Builder · System Design**
 
-<br>
+  Building **RiserBob** — a different kind of backend development experience.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF1E1E"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF1E1E"/>
-
-</div>
-
-<br>
-
-## 👋 About Me
-
-```typescript
-const zen = {
-  role: "Software Engineer",
-  focus: [
-    "Backend Engineering",
-    "System Design",
-    "Scalable APIs",
-    "Clean Architecture"
-  ],
-  stack: [
-    "NestJS",
-    "Node.js",
-    "TypeScript",
-    "Next.js",
-    "PostgreSQL",
-    "MongoDB",
-    "Redis"
-  ]
-};
-```
-
-I build backend systems and web applications with a focus on
-**architecture, scalability, performance, and maintainable code.**
-
----
-
-## ⚙️ Tech Stack
-
-|   Backend  | Frontend |  Databases | Infrastructure | Testing |
-| :--------: | :------: | :--------: | :------------: | :-----: |
-|   Node.js  |  Next.js | PostgreSQL |     Docker     |   Jest  |
-|   NestJS   |  TailwindCSS   |   MongoDB  |      CI/CD     | Postman |
-| TypeScript |          |    Redis   |       Git      |         |
-
----
-
-## 📌 What I Work With
-
-* RESTful APIs & Backend Architecture
-* Authentication & Authorization
-* RBAC & Security
-* Redis & Caching
-* Background Jobs & Queues
-* WebSockets
-* Database Design
-* Clean Architecture
-* Repository Pattern
-* Docker & CI/CD
-* Performance Optimization
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000" width="48%"/>
+  <a href="https://github.com/ZenZN99/RiserBob">
+    <img src="https://img.shields.io/badge/Building-RiserBob-FFD43B?style=for-the-badge&logo=github&logoColor=000000" alt="Building RiserBob" />
+  </a>
+  <a href="https://zenallaham.com">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio" />
+  </a>
 
 </div>
 
 ---
 
-## 🔗 Connect
+## Beyond Building Applications
+
+I’m a software engineer focused on **backend engineering, system design, and developer tooling**.
+
+I’m interested in what happens beneath the API surface: request lifecycles, middleware execution, routing, error handling, performance, and the architecture that makes backend systems reliable and maintainable.
+
+Rather than only building with existing tools, I’m exploring how to build the tools themselves.
+
+## 🧽 RiserBob
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792690158/yktnlpmjns4rwycciixn.png" alt="RiserBob" width="100%" />
+</div>
+
+**RiserBob is my framework-building project:** a lightweight HTTP framework built for Bun and TypeScript, designed around a structured yet approachable developer experience.
+
+The goal is to create a framework with its own identity, thoughtful APIs, predictable behavior, and a development experience that feels different.
+
+**What I'm working on:**
+
+- HTTP routing and route parameters
+- Middleware pipelines and request handling
+- Request validation and response helpers
+- Consistent error handling
+- Testing, documentation, and developer experience
+
+[**Explore RiserBob on GitHub →**](https://github.com/ZenZN99/RiserBob)
+
+## ⚙️ Engineering Interests
+
+| Area | Focus |
+|:---|:---|
+| Backend Engineering | APIs, request lifecycles, authentication |
+| System Design | Scalability, architecture, reliability |
+| Framework Development | Routing, middleware, developer tooling |
+| Data & Performance | PostgreSQL, MongoDB, Redis, caching |
+| Infrastructure | Bun, Node.js, Docker, CI/CD |
+
+## 🛠️ Technology
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
-</a>
-
-<a href="https://zenallaham.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000"/>
-</a>
-
-<a href="mailto:zenallaham09@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/>
-</a>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FFD43B" alt="Bun" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD43B" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD43B" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FFD43B" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD43B" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD43B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FFD43B" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD43B" alt="Docker" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=100&section=footer" width="100%"/>
+## 🔭 My Approach
+
+- **Understand the internals.** Know what the framework does, not just which method to call.
+- **Design before scaling.** Think about architecture, data flow, and failure cases.
+- **Build for maintainability.** Prefer clear abstractions and predictable behavior.
+- **Test the behavior.** Treat correctness as part of the developer experience.
+- **Create, don't just consume.** Explore new ideas and build tools that solve real problems.
+
+## 🤝 Connect
+
+<div align="center">
+
+  <a href="https://zenallaham.com">
+    <img src="https://img.shields.io/badge/Website-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website" />
+  </a>
+  <a href="https://github.com/ZenZN99">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFD43B" alt="GitHub" />
+  </a>
+  <a href="mailto:zenallaham09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <sub>Building ideas into tools. One request at a time. 🧽</sub>
+
+</div>
