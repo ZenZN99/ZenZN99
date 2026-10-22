@@ -1,103 +1,65 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792601028/riserbob/covers/keps4sy2lumzdx0ho23i.png" alt="RiserBob Mascot" width="180" />
+<img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792601028/riserbob/covers/keps4sy2lumzdx0ho23i.png" alt="RiserBob Mascot" width="160" />
 
-  <h1>Zen Allaham</h1>
+# Hey Developers 👋 I am Creator RiserBob
 
-  **Backend Engineer · Framework Builder · System Design**
+**Zen Allaham** · Backend Engineer · Framework Builder
 
-  Building **RiserBob** — a different kind of backend development experience.
-
-  <a href="https://github.com/ZenZN99/RiserBob">
-    <img src="https://img.shields.io/badge/Building-RiserBob-FFD43B?style=for-the-badge&logo=github&logoColor=000000" alt="Building RiserBob" />
-  </a>
-  <a href="https://zenallaham.com">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio" />
-  </a>
+<a href="https://github.com/ZenZN99/RiserBob">
+  <img src="https://img.shields.io/badge/RiserBob-Explore_Framework-FFD43B?style=for-the-badge&logo=github&logoColor=000000" alt="RiserBob" />
+</a>
+<a href="https://zenallaham.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF3CAC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
 ---
 
-## Beyond Building Applications
+## 🧽 About
 
-I’m a software engineer focused on **backend engineering, system design, and developer tooling**.
-
-I’m interested in what happens beneath the API surface: request lifecycles, middleware execution, routing, error handling, performance, and the architecture that makes backend systems reliable and maintainable.
-
-Rather than only building with existing tools, I’m exploring how to build the tools themselves.
-
-## 🧽 RiserBob
+I build **backend systems and developer tooling**, and I'm the creator of **RiserBob**: a lightweight, fully tested HTTP framework for **Bun** and **TypeScript** with routing, middleware, validation, and consistent error handling.
 
 <div align="center">
   <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792690158/yktnlpmjns4rwycciixn.png" alt="RiserBob" width="100%" />
 </div>
 
-**RiserBob is my framework-building project:** a lightweight HTTP framework built for Bun and TypeScript, designed around a structured yet approachable developer experience.
-
-The goal is to create a framework with its own identity, thoughtful APIs, predictable behavior, and a development experience that feels different.
-
-**What I'm working on:**
-
-- HTTP routing and route parameters
-- Middleware pipelines and request handling
-- Request validation and response helpers
-- Consistent error handling
-- Testing, documentation, and developer experience
-
-[**Explore RiserBob on GitHub →**](https://github.com/ZenZN99/RiserBob)
-
-## ⚙️ Engineering Interests
-
-| Area | Focus |
-|:---|:---|
-| Backend Engineering | APIs, request lifecycles, authentication |
-| System Design | Scalability, architecture, reliability |
-| Framework Development | Routing, middleware, developer tooling |
-| Data & Performance | PostgreSQL, MongoDB, Redis, caching |
-| Infrastructure | Bun, Node.js, Docker, CI/CD |
-
-## 🛠️ Technology
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FFD43B" alt="Bun" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD43B" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD43B" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FFD43B" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD43B" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD43B" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FFD43B" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD43B" alt="Docker" />
+<img src="https://img.shields.io/badge/Bun-FBF0DF?style=for-the-badge&logo=bun&logoColor=000000" alt="Bun" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
-## 🔭 My Approach
+## 🔭 Focus
 
-- **Understand the internals.** Know what the framework does, not just which method to call.
-- **Design before scaling.** Think about architecture, data flow, and failure cases.
-- **Build for maintainability.** Prefer clear abstractions and predictable behavior.
-- **Test the behavior.** Treat correctness as part of the developer experience.
-- **Create, don't just consume.** Explore new ideas and build tools that solve real problems.
+- **Backend & APIs:** request lifecycles, authentication, system design
+- **Framework development:** routing, middleware, developer experience
+- **Quality:** tested behavior, predictable and maintainable code
 
 ## 🤝 Connect
 
 <div align="center">
 
-  <a href="https://zenallaham.com">
-    <img src="https://img.shields.io/badge/Website-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website" />
-  </a>
-  <a href="https://github.com/ZenZN99">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFD43B" alt="GitHub" />
-  </a>
-  <a href="mailto:zenallaham09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email" />
-  </a>
+<a href="https://zenallaham.com">
+  <img src="https://img.shields.io/badge/Website-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Website" />
+</a>
+<a href="https://github.com/ZenZN99">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:zenallaham09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-</div>
-
-<div align="center">
-
-  <sub>Building ideas into tools. One request at a time. 🧽</sub>
+<sub>Building ideas into tools. One request at a time. 🧽</sub>
 
 </div>
