@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFD43B,50:FF9F1C,100:FF3CAC&text=RiserBob&fontSize=72&fontColor=181717&fontAlignY=38&desc=Zen%20Allaham%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Framework%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="RiserBob header" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFD43B&text=RiserBob&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Zen%20Allaham%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Framework%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="RiserBob header" width="100%" />
 <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792601028/riserbob/covers/keps4sy2lumzdx0ho23i.png" alt="RiserBob Mascot" width="140" />
 
 <a href="https://github.com/ZenZN99/RiserBob">
