@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="RiserBob — Zen Allaham, Backend Engineer, Framework Builder" width="100%" />
+<img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444155/spknpjdjzmih8udh0imo.svg" alt="RiserBob — Zen Allaham, Backend Engineer, Framework Builder" width="100%" />
 
 <br/>
 
@@ -36,9 +36,9 @@ Content-Type: application/json
 <br/>
 
 <div align="center">
-  <img src="assets/pipeline.svg" alt="Request lifecycle: request, router, middleware, validator, handler, response" width="100%" />
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444156/tbdzc1dv2v0wqpnkvtoe.svg" alt="Request lifecycle: request, router, middleware, validator, handler, response" width="100%" />
   <br/><br/>
   <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792690158/yktnlpmjns4rwycciixn.png" alt="RiserBob" width="100%" />
   <br/><br/>
-  <img src="assets/footer.svg" alt="One request at a time." width="100%" />
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444155/swrjqtt25shstcbolh3a.svg" alt="One request at a time." width="100%" />
 </div>
