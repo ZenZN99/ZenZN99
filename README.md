@@ -1,44 +1,33 @@
-<div align="center">
+# Hi, I'm Zen Allaham 👋
 
-<img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444155/spknpjdjzmih8udh0imo.svg" alt="RiserBob — Zen Allaham, Backend Engineer, Framework Builder" width="100%" />
+I'm a Backend Engineer passionate about building reliable, scalable, and well-structured software systems.
 
-<br/>
+I enjoy exploring how things work under the hood, designing backend architectures, and turning ideas into practical solutions.
 
-<img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792601028/riserbob/covers/keps4sy2lumzdx0ho23i.png" alt="RiserBob Mascot" width="120" />
+### About Me
 
-<br/><br/>
+- Backend Engineer focused on **Node.js, TypeScript, and NestJS**.
+- Interested in System Design, Software Architecture, and Performance.
+- Creator of **RiserBob**, a TypeScript HTTP framework powered by Bun.
+- I enjoy building developer tools, frameworks, and open-source projects.
+- Always learning, experimenting, and improving my engineering skills.
 
-<a href="https://github.com/ZenZN99/RiserBob"><img src="https://img.shields.io/badge/RiserBob-Explore_Framework-181717?style=for-the-badge&logo=github&logoColor=FFD43B&labelColor=FFD43B&color=181717" alt="RiserBob" /></a>
-<a href="https://zenallaham.com"><img src="https://img.shields.io/badge/Portfolio-zenallaham.com-181717?style=for-the-badge&logo=googlechrome&logoColor=FF3CAC&labelColor=FF3CAC&color=181717" alt="Portfolio" /></a>
-<a href="mailto:zenallaham09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=EA4335&color=181717" alt="Email" /></a>
+### Technologies & Tools
 
-</div>
+TypeScript · JavaScript · Node.js · NestJS · Bun · Elysia · PHP · Laravel · PostgreSQL · MongoDB · Redis · Docker · Git
 
-<br/>
+### What I'm Working On
 
-```http
-HTTP/1.1 200 OK
-Content-Type: application/json
-```
+- Building and improving RiserBob and its ecosystem.
+- Exploring backend architecture and system design.
+- Developing practical projects and developer tools.
+- Contributing to the open-source community.
 
-```json
-{
-  "name": "Zen Allaham",
-  "role": "Backend Engineer · Framework Builder",
-  "creator_of": "RiserBob — a lightweight, fully tested HTTP framework for Bun + TypeScript",
-  "ships": ["routing", "middleware", "validation", "consistent error handling"],
-  "stack": ["Bun", "TypeScript", "Node.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "Docker"],
-  "focus": ["request lifecycles", "authentication", "system design", "developer experience"],
-  "believes_in": "tested behavior and predictable, maintainable code"
-}
-```
+### Let's Connect
 
-<br/>
+- Website: https://zenallaham.com
+- GitHub: https://github.com/ZenZN99
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444156/tbdzc1dv2v0wqpnkvtoe.svg" alt="Request lifecycle: request, router, middleware, validator, handler, response" width="100%" />
-  <br/><br/>
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1792690158/yktnlpmjns4rwycciixn.png" alt="RiserBob" width="100%" />
-  <br/><br/>
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793444155/swrjqtt25shstcbolh3a.svg" alt="One request at a time." width="100%" />
-</div>
+Thanks for stopping by!
+
+**Keep building. Keep learning.**
