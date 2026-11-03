@@ -1,12 +1,12 @@
 # Hi, I'm Zen Allaham 👋
 
-I'm a Backend Engineer passionate about building reliable, scalable, and well-structured software systems.
+I'm a Software Engineer passionate about building reliable, scalable, and well-structured software systems.
 
 I enjoy exploring how things work under the hood, designing backend architectures, and turning ideas into practical solutions.
 
 ### About Me
 
-- Backend Engineer focused on **Node.js, TypeScript, and NestJS**.
+- Software Engineer focused on **Node.js, TypeScript, and NestJS**.
 - Interested in System Design, Software Architecture, and Performance.
 - Creator of **RiserBob**, a TypeScript fun and fast framework powered by Bun.
 - I enjoy building developer tools, frameworks, and open-source projects.
