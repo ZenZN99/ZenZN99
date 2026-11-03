@@ -8,7 +8,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 - Backend Engineer focused on **Node.js, TypeScript, and NestJS**.
 - Interested in System Design, Software Architecture, and Performance.
-- Creator of **RiserBob**, a TypeScript HTTP framework powered by Bun.
+- Creator of **RiserBob**, a TypeScript fun and fast framework powered by Bun.
 - I enjoy building developer tools, frameworks, and open-source projects.
 - Always learning, experimenting, and improving my engineering skills.
 
