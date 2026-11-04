@@ -1,4 +1,7 @@
-#   <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" height="48" alt="RiserBob" /> Hi, I'm Zen Allaham 👋
+<h1 align="left">
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" height="42" alt="RiserBob" />
+  Hi, I'm Zen Allaham 👋
+</h1>
 
 I'm a Software Engineer passionate about building reliable, scalable, and well-structured software systems.
 
