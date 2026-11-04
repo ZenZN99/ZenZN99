@@ -19,7 +19,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun" />
-    <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" alt="RiserBob" align="absmiddle" />
+    <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png"   width="48" height="48" alt="RiserBob" align="absmiddle" />
   <img src="https://skillicons.dev/icons?i=go,php,laravel,postgres,mongodb,redis,docker,git" />
 </p>
 
