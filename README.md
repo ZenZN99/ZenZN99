@@ -32,4 +32,8 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 Thanks for stopping by!
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793387243/user-profiles/covers/oj5zonqk1wvtrjrla4ip.png">
+</p>
+
 **Keep building. Keep learning.**
