@@ -1,4 +1,4 @@
-# Hi, I'm Zen Allaham 👋
+#   <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" height="48" alt="RiserBob" /> Hi, I'm Zen Allaham 👋
 
 I'm a Software Engineer passionate about building reliable, scalable, and well-structured software systems.
 
@@ -16,7 +16,6 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun" />
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" height="48" alt="RiserBob" />
   <img src="https://skillicons.dev/icons?i=go,php,laravel,postgres,mongodb,redis,docker,git" />
 </p>
 
