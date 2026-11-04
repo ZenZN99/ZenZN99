@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" alt="RiserBob" width="48" height="48" align="absmiddle" />
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" alt="RiserBob" width="48" height="48"  />
   Hi, I'm Zen Allaham 👋
 </h1>
 
