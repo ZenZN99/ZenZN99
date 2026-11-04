@@ -15,7 +15,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 ### Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun,elysia,go,php,laravel,postgres,mongodb,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun,riserbob,go,php,laravel,postgres,mongodb,redis,docker,git" />
 </p>
 
 ### What I'm Working On
