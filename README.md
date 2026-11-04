@@ -14,7 +14,9 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 ### Technologies & Tools
 
-TypeScript · JavaScript · Node.js · NestJS · Bun · Elysia · PHP · Laravel · PostgreSQL · MongoDB · Redis · Docker · Git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun,elysia,go,php,laravel,postgres,mongodb,redis,docker,git" />
+</p>
 
 ### What I'm Working On
 
