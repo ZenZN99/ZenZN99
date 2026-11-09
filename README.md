@@ -39,7 +39,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 ### Let's Connect
 
 - Website: https://zenallaham.com
-- GitHub: https://github.com/ZenZN99
+- X: https://x.com/zen_allaham
 
 Thanks for stopping by!
 
