@@ -26,7 +26,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
     alt="RiserBob"
     style="vertical-align: middle; object-fit: contain;"
   />
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,postgres,mongodb,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,riserbob,postgres,mongodb,redis,docker,git" />
 </p>
 
 ### What I'm Working On
