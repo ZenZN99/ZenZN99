@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png" alt="RiserBob" width="48" height="48" align="absmiddle" />
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795227129/koakwx1uyjf68edpilc8.png" alt="LykosJS" width="48" height="48" align="absmiddle" />
   Hi, I'm Zen Allaham 👋
 </h1>
 
@@ -11,7 +11,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 - Software Engineer focused on **Node.js, TypeScript, and NestJS**.
 - Interested in System Design, Software Architecture, and Performance.
-- Creator of **RiserBob**, a TypeScript fun and fast framework powered by Bun.
+- Creator of **LykosJS**, a lightweight, modular backend framework built for speed and DX.
 - I enjoy building developer tools, frameworks, and open-source projects.
 - Always learning, experimenting, and improving my engineering skills.
 
@@ -20,10 +20,10 @@ I enjoy exploring how things work under the hood, designing backend architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun" />
   <img
-    src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793820492/zkdc158svv88w4wef3cj.png"
+    src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795227129/koakwx1uyjf68edpilc8.png"
     width="48"
     height="48"
-    alt="RiserBob"
+    alt="LykosJS"
     style="vertical-align: middle; object-fit: contain;"
   />
   <img src="https://skillicons.dev/icons?i=go,php,laravel,postgres,mongodb,redis,docker,git" />
@@ -44,7 +44,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 Thanks for stopping by!
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1793387243/user-profiles/covers/oj5zonqk1wvtrjrla4ip.png">
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795313052/muvd4yk1qmoa3kmdql43.png">
 </p>
 
 **Keep building. Keep learning.**
