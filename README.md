@@ -31,7 +31,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 
 ### What I'm Working On
 
-- Building and improving RiserBob and its ecosystem.
+- Building and improving LykosJS and its ecosystem.
 - Exploring backend architecture and system design.
 - Developing practical projects and developer tools.
 - Contributing to the open-source community.
