@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795227129/koakwx1uyjf68edpilc8.png" alt="LykosJS" width="48" height="48" align="absmiddle" />
+  <img src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795527989/atneib1qc0uynu90pkfu.png" alt="LykosJS" width="48" height="48" align="absmiddle" />
   Hi, I'm Zen Allaham 👋
 </h1>
 
@@ -20,7 +20,7 @@ I enjoy exploring how things work under the hood, designing backend architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,bun" />
   <img
-    src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795227129/koakwx1uyjf68edpilc8.png"
+    src="https://res.cloudinary.com/dgagbheuj/image/upload/v1795527989/atneib1qc0uynu90pkfu.png"
     width="48"
     height="48"
     alt="LykosJS"
